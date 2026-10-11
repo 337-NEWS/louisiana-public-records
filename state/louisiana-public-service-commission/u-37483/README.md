@@ -14,9 +14,11 @@
 - `2025-02-17-notice-noncompliance.pdf` — BECi notice of non-compliance and request for clarification of intervention.
 - `2025-02-19-ruling-clarification-redacted.pdf` — Administrative Hearings Division ruling on the request for clarification. Personal address, email, and phone details on PDF page 4 were removed from this publication copy.
 - `2025-05-08-order-u-37483-interim-rates.pdf` — Commission order concerning interim rate relief.
+- `2025-09-30-beci-rebuttal-testimony-proctor-viator.pdf` — BECi rebuttal testimony of Proctor and Viator.
 - `2025-10-01-exception-motion-strike.pdf` — BECi peremptory exception of no right of action and motion to strike intervention.
 - `2025-10-01-memorandum-support-strike.pdf` — BECi memorandum supporting its exception and motion.
 - `2025-10-13-ruling-motion-to-strike-redacted.pdf` — Administrative Hearings Division ruling on the exception and motion. Personal address, email, and phone details on PDF page 9 were removed from this publication copy.
+- `2025-11-14-alj-report-proceedings-stipulation.pdf` — Administrative law judge's report of proceedings and submission of the stipulated settlement. This is a recommendation and procedural report; consult the later commission order for final disposition.
 - `2025-12-17-open-session-minutes.pdf` — Commission meeting minutes; the meeting covered other matters as well as this docket.
 - `2025-12-17-open-session-transcript.pdf` — Transcript of the same open session; the discussion of U-37483 appears on transcript pages 30–33.
 - `2026-01-08-order-u-37483-a.pdf` — Commission order following the December 2025 meeting.

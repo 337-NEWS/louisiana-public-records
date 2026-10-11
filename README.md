@@ -1,8 +1,8 @@
 # Louisiana Public Records Archive
 
-A public source-document archive maintained by **337.NEWS** for records concerning Louisiana government, public bodies, courts, public infrastructure, regulation, development, and matters of public interest.
+A public source-document archive maintained by [337.NEWS](https://337.news) for records concerning Louisiana government, public bodies, courts, public infrastructure, regulation, development, and matters of public interest.
 
-This repository is the **source archive**. Reporting, analysis, and editorial context belong on 337.NEWS and are kept separate from the underlying records.
+This repository is the **source archive**. For reporting, analysis, and editorial context, visit [337.news](https://337.news). Those stories are kept separate from the underlying records.
 
 ## What belongs here
 
@@ -69,4 +69,4 @@ Public contributions are welcome but moderated. See [CONTRIBUTING.md](CONTRIBUTI
 
 ## About 337.NEWS
 
-337.NEWS is an independent Southwest Louisiana publication. This repository exists to make source material easier for the public to inspect, cite, and preserve.
+[337.NEWS](https://337.news) is an independent Southwest Louisiana publication. This repository exists to make source material easier for the public to inspect, cite, and preserve.

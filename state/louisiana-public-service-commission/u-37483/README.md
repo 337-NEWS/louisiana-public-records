@@ -32,3 +32,9 @@ The additional PDFs were supplied to this archive by Dalton Barron. Commission r
 ## Correction
 
 On October 11, 2026, the three redacted publication copies were replaced using revised PDFs supplied by Dalton Barron. A final visual review found small exposed portions of an email line in the two rulings; those portions were covered in the replacement publication copies. The other three docket PDFs were unchanged.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

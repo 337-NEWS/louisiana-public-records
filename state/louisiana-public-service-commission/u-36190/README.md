@@ -10,3 +10,9 @@
 - `2025-10-14-order-u-36190-c.pdf` — Later Order U-36190-C concerning updated Geaux Green Option pricing.
 
 These are selected orders, not the complete docket.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

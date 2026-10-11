@@ -13,3 +13,9 @@
 - `2025-02-13-draft-lpdes-permit-public-notice-la0007374.pdf` — Public notice for the draft permit; the notice identifies February 13, 2025 as its scheduled publication date.
 
 The package is marked **draft**. These files do not establish whether or when a final permit was issued. Check LDEQ's current permit record for the final decision.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

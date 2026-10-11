@@ -14,3 +14,9 @@
 The request covers FAA Office of Commercial Space Transportation records concerning Section 106 initiation, APE materials, cultural-resource surveys, interagency and tribal consultation, known archaeological resources, and prior work associated with the former ExxonMobil Pecan Island property.
 
 Source file is archived as received.
+
+## Archive metadata
+
+- Jurisdiction / source class: Federal
+- Archive status: Request archived; response not present in this collection
+- Last reviewed: 2026-10-11

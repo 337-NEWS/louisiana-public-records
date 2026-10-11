@@ -14,3 +14,9 @@ Record type: Federal court records
 A duplicate copy of Document 35 supplied to the archive is not intentionally archived twice.
 
 These are court records, not PRR or FOIA productions.
+
+## Archive metadata
+
+- Jurisdiction / source class: Federal court
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

@@ -13,3 +13,9 @@ Record type: Publicly available organizational records and related source docume
 ## Other records
 
 - `investigation/2024-03-13-board-of-directors-investigation-memorandum.pdf`
+
+## Archive metadata
+
+- Jurisdiction / source class: Company / organizational publication
+- Archive status: Selected public documents
+- Last reviewed: 2026-10-11

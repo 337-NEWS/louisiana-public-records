@@ -10,3 +10,9 @@
 - `2024-06-14-order-u-36697-corrected.pdf` — Corrected commission order.
 
 The application is the company's proposal; the corrected order records the commission's decision. These files are selected docket records.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

@@ -10,3 +10,9 @@
 - `2024-09-06-order-u-37071.pdf` — Commission order on the application.
 
 These are selected docket records, not the complete docket.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

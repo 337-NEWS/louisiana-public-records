@@ -11,3 +11,9 @@
 - `exxonmobil-low-carbon-solutions-ocm-vermilion-parish.pdf` — Office of Coastal Management and environmental review material.
 
 These source PDFs are archived without alteration. Their filenames identify the source records; inclusion does not establish that the project received a final permit or that any proposed activity occurred.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

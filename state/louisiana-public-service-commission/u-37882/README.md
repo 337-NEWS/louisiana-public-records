@@ -11,3 +11,9 @@
 - `2026-03-25-troy-r-heytens-direct-testimony-public-redacted.pdf` — Public redacted direct testimony and exhibits of Troy R. Heytens.
 
 The confidential counterparts were filed under seal and are not included. These witnesses' testimony states the applicant's evidence and positions; it is not a commission finding. This is a selection from the docket, not its complete record.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

@@ -11,3 +11,9 @@
 - `2024-01-11-order-u-36516-a.pdf` — Subsequent Order U-36516-A.
 
 The application states the applicants' request; the orders state the commission's decisions. Refer to the orders for the disposition and terms.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

@@ -30,3 +30,9 @@ The following PDFs were supplied by Dalton Barron as Louisiana Legislature docum
 - `2026-05-19-house-natural-resources-hb-504-committee-vote.pdf` — House Natural Resources and Environment Committee vote print for HB 504 ([source page](https://www.legis.la.gov/Legis/CommitteeVote.aspx?moi=1001062)).
 
 The introduced and enrolled versions of HB 804 are materially different legislative stages and are both retained. The committee-vote PDFs are prints of public web pages captured October 11, 2026.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

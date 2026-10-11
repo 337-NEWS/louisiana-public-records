@@ -29,3 +29,9 @@
 `2026-10-11-renewable-energy-permitting-webpage.pdf` is a print of the department's [renewable energy permitting webpage](https://www.dce.louisiana.gov/page/solar-permitting), captured October 11, 2026. It describes permit categories at that time and may later change.
 
 These permits should be read for their own scope and conditions. Their issuance alone does not establish that a project was built or that all other required approvals were obtained.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

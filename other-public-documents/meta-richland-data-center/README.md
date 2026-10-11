@@ -5,3 +5,9 @@
 - Capture: October 11, 2026 print of Meta's public-facing webpage, supplied by Dalton Barron and archived without alteration.
 
 `2026-10-11-meta-investment-webpage.pdf` preserves Meta's statements about its proposed expansion, jobs, spending, and energy agreement. Those statements are attributed to Meta; this page is not an agency finding or independent verification of outcomes.
+
+## Archive metadata
+
+- Jurisdiction / source class: Company / organizational publication
+- Archive status: Single-record collection
+- Last reviewed: 2026-10-11

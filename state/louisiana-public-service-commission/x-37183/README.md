@@ -12,3 +12,9 @@
 - `2024-05-22-open-session-transcript.pdf` — LPSC open-session transcript, which discusses the investigation on transcript pages 6–7 (PDF pages 7–8). The transcript also covers other matters.
 
 These records document the commission's public notices and statements at the time. Inclusion does not establish any alleged violation or the outcome of the audit.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

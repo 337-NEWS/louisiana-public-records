@@ -4,3 +4,9 @@
 - Record: October 11, 2026 print of a public-facing company webpage, supplied by Dalton Barron and archived without alteration.
 
 `2026-10-11-nextera-project-webpage.pdf` presents the company's description and projections for the Singer Solar project. Company statements are attributed to the company; this file is not an agency permit or independent verification of project outcomes.
+
+## Archive metadata
+
+- Jurisdiction / source class: Company / organizational publication
+- Archive status: Single-record collection
+- Last reviewed: 2026-10-11

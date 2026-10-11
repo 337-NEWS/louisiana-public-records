@@ -9,3 +9,9 @@
 - `hb-615-original.pdf` — Introduced House Bill 615 concerning solar-facility regulation.
 
 "Original" identifies the introduced version, not final text or legislative disposition. Check the [Louisiana Legislature](https://legis.la.gov/) for later versions and status.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

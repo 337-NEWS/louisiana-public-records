@@ -12,3 +12,9 @@
 These files are portions of a larger public-records production and are preserved as separate production files. They contain government correspondence and associated records concerning carbon capture and related projects. The production includes third-party statements and correspondence; inclusion here does not establish the truth of statements contained in those records.
 
 Source files are archived as received.
+
+## Archive metadata
+
+- Jurisdiction / source class: Louisiana state
+- Archive status: Selected records; completeness not established
+- Last reviewed: 2026-10-11

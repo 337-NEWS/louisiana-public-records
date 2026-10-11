@@ -9,3 +9,9 @@
 - `2026-10-11-orion-project-webpage.pdf` — October 11, 2026 print of the [Persimmon Energy Project website](https://persimmonenergyproject.com/), which identifies Orion Renewables.
 
 Visual simulations depict proposed views; they should not be read as photographs of a completed project or as regulatory determinations.
+
+## Archive metadata
+
+- Jurisdiction / source class: Company / organizational publication
+- Archive status: Selected public documents
+- Last reviewed: 2026-10-11

@@ -1,1 +1,2 @@
 *.pdf binary
+state/louisiana-department-of-environmental-quality/waterford-3/2025-02-04-draft-lpdes-permit-package-la0007374.pdf filter=lfs diff=lfs merge=lfs -text

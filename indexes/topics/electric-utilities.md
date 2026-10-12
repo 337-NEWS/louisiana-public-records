@@ -10,6 +10,9 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [1803 Electric 2025 RFP — LPSC X-37665](../../state/louisiana-public-service-commission/x-37665/README.md)
+- [1803 Electric third-party publications](../../other-public-documents/1803-electric-third-party-publications/README.md)
+
 - [LPSC electric cooperative IRP order, R-36262](../../state/louisiana-public-service-commission/r-36262/README.md)
 - [1803 Electric IRP initiation request](../../state/louisiana-public-service-commission/1803-electric-2026-irp-initiation/README.md)
 

@@ -4,6 +4,9 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Energy & utilities
 
+- [LPSC X-37665 — 1803 Electric 2025 RFP](state/louisiana-public-service-commission/x-37665/README.md)
+- [1803 Electric third-party publications and data prints](other-public-documents/1803-electric-third-party-publications/README.md)
+
 - [LPSC R-36262 — electric cooperative IRP rules](state/louisiana-public-service-commission/r-36262/README.md)
 - [1803 Electric — 2026 IRP initiation filing](state/louisiana-public-service-commission/1803-electric-2026-irp-initiation/README.md)
 

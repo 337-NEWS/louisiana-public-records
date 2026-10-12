@@ -6,7 +6,7 @@ This repository preserves source material for public inspection. [337.NEWS](http
 
 ## Provenance and source integrity
 
-Collection READMEs identify the custodian, source, acquisition route, dates, and docket or request numbers where established. A document may be an official agency record, a party's filing, a company publication, or a print of a public webpage. Those classes must remain distinct. "Archived without alteration" means the supplied source file's contents were not edited when added to the archive; neutral archive filenames and Markdown descriptions may be added around it. Where provenance is incomplete, the README says so.
+Collection READMEs identify the custodian, source, acquisition route, dates, and docket or request numbers where established. A document may be an official agency record, a party's filing, a company publication, a third-party article or data presentation, or a print of a public webpage. Those classes must remain distinct. "Archived without alteration" means the supplied source file's contents were not edited when added to the archive; neutral archive filenames and Markdown descriptions may be added around it. Where provenance is incomplete, the README says so.
 
 ## Publication copies and privacy
 

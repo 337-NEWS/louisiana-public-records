@@ -1,7 +1,7 @@
 ---
 title: "Transmission"
 type: infrastructure
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Transmission
@@ -10,6 +10,7 @@ These links identify records that discuss this infrastructure category. They do 
 
 ## Source collections
 
+- [MISO Transmission Planning Business Practices Manual 020](../../other-public-documents/miso/transmission-planning-bpm-020/README.md)
 - [1803 Electric Cooperative facility and planning records](../../other-public-documents/miso/1803-electric-cooperative/README.md)
 
 - [MISO transmission and interconnection records](../../other-public-documents/miso/service-agreements/README.md)

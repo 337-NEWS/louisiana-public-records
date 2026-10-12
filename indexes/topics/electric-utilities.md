@@ -10,6 +10,7 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [MISO Transmission Planning Business Practices Manual 020](../../other-public-documents/miso/transmission-planning-bpm-020/README.md)
 - [1803 Electric 2025 RFP — LPSC X-37665](../../state/louisiana-public-service-commission/x-37665/README.md)
 - [1803 Electric third-party publications](../../other-public-documents/1803-electric-third-party-publications/README.md)
 

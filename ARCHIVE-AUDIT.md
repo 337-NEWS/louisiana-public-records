@@ -4,9 +4,9 @@
 
 | Measure | Count |
 | --- | ---: |
-| Archived source files | 148 |
-| Source collections | 46 |
-| Collections with a README | 46 |
+| Archived source files | 151 |
+| Source collections | 47 |
+| Collections with a README | 47 |
 | Collections without a README | 0 |
 | Project index pages | 11 |
 | People index pages | 2 |
@@ -16,11 +16,11 @@
 | Infrastructure index pages | 5 |
 | Documented request or production entries in `REQUESTS.md` | 3 |
 
-All 148 archived source files comprise 140 PDFs, seven DOCX files, and one XLSX file. Each source file is under a collection with a README. The root [catalog](CATALOG.md) links to all 46 collections. The indexes link to canonical files or collections without copying source files. A SHA-256 comparison found no byte-identical source files at different archive paths. Exact duplicate standalone copies of three Lacassine agreements were not added twice. The previously supplied duplicate of the Zelenak Document 35 ruling remains unarchived, as noted in its collection README.
+All 151 archived source files comprise 143 PDFs, seven DOCX files, and one XLSX file. Each source file is under a collection with a README. The root [catalog](CATALOG.md) links to all 47 collections. The indexes link to canonical files or collections without copying source files. A SHA-256 comparison found no byte-identical source files at different archive paths. Exact duplicate standalone copies of three Lacassine agreements were not added twice. The previously supplied duplicate of the Zelenak Document 35 ruling remains unarchived, as noted in its collection README.
 
 ## Link and navigation review
 
-The repository's Markdown link checker examined 338 local links after the navigation changes and found no broken targets. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
+The repository's Markdown link checker examined 345 local links after the navigation changes and found no broken targets. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
 
 ## Collection status and provenance limits
 
@@ -35,6 +35,7 @@ The repository's Markdown link checker examined 338 local links after the naviga
 - LPSC R-36262 is a selected general order. The separate 1803 Electric IRP initiation collection contains a request and proposed exhibits; it does not establish a final IRP process schedule or adopted confidentiality agreement.
 - LPSC X-37665 contains an 1803 Electric RFP filing. A separate collection contains three third-party article/data-page prints with publisher attribution; their claims are not treated as agency findings.
 - LPSC U-35927, U-37134, and U-37441 contain portal document-list prints only, not the underlying filings. A supplied 1803 local-planning-criteria PDF matched the archived MISO copy byte-for-byte and was not added again.
+- The MISO BPM-020 collection holds public transmission-planning manuals (revisions 33 and 34) and the revision 34 redline. These are organizational guidance documents, not Louisiana agency orders or project approvals.
 
 ## Structural issues retained for provenance
 

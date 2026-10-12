@@ -8,7 +8,7 @@
 
 ## Files
 
-- `request/barron-foia-request-2026-09-21.pdf` — request submitted to USACE.
+- [request/barron-foia-request-2026-09-21.pdf](request/barron-foia-request-2026-09-21.pdf) — request submitted to USACE.
 
 The request seeks the Section 106 administrative record associated with USACE file **MVN-2023-00058-WII**, cultural-resource and archaeological review materials, protected-site-safe records concerning known archaeological resources, and related SpaceX/Starbase Louisiana records.
 

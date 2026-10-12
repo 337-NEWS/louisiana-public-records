@@ -5,8 +5,8 @@
 
 ## Files
 
-- `hb-4-original.pdf` — Introduced House Bill 4 concerning parish decisions on Class VI carbon dioxide injection wells.
-- `hb-615-original.pdf` — Introduced House Bill 615 concerning solar-facility regulation.
+- [hb-4-original.pdf](hb-4-original.pdf) — Introduced House Bill 4 concerning parish decisions on Class VI carbon dioxide injection wells.
+- [hb-615-original.pdf](hb-615-original.pdf) — Introduced House Bill 615 concerning solar-facility regulation.
 
 "Original" identifies the introduced version, not final text or legislative disposition. Check the [Louisiana Legislature](https://legis.la.gov/) for later versions and status.
 

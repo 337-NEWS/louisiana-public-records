@@ -4,7 +4,7 @@
 - Record: September 3, 2025 letter from legislators requesting a delay in pipeline docket hearings
 - Provenance: PDF supplied to this archive by Dalton Barron
 
-`2025-09-03-legislators-hearing-delay-letter.pdf` records the signers' request. It does not establish that the hearings were delayed or that any agency adopted the letter's position.
+[2025-09-03-legislators-hearing-delay-letter.pdf](2025-09-03-legislators-hearing-delay-letter.pdf) records the signers' request. It does not establish that the hearings were delayed or that any agency adopted the letter's position.
 
 ## Archive metadata
 

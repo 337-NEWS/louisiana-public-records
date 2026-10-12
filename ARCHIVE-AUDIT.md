@@ -20,7 +20,7 @@ All 151 archived source files comprise 143 PDFs, seven DOCX files, and one XLSX 
 
 ## Link and navigation review
 
-The repository's Markdown link checker examined 345 local links after the navigation changes and found no broken targets. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
+The repository's Markdown link checker examined 445 local links after the navigation changes and found no broken targets. Every archived source file is linked from its collection README. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
 
 ## Collection status and provenance limits
 

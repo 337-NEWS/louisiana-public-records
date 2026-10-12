@@ -6,8 +6,8 @@
 
 ## Files
 
-- `2023-12-19-application.pdf` — Application concerning the Mondu Solar power purchase agreement, Geaux Green tariff, and cost recovery.
-- `2024-09-06-order-u-37071.pdf` — Commission order on the application.
+- [2023-12-19-application.pdf](2023-12-19-application.pdf) — Application concerning the Mondu Solar power purchase agreement, Geaux Green tariff, and cost recovery.
+- [2024-09-06-order-u-37071.pdf](2024-09-06-order-u-37071.pdf) — Commission order on the application.
 
 These are selected docket records, not the complete docket.
 

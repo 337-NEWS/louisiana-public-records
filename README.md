@@ -10,6 +10,8 @@ A public source-document archive maintained by [337.NEWS](https://337.news) for 
 - [Methodology](METHODOLOGY.md) — provenance, redaction, correction, and preservation practices.
 - [Repository structure](REPOSITORY-STRUCTURE.md) — directory roles and naming rules.
 
+To download a record, open its collection from the catalog, select the linked filename in that collection's README, then choose **Download raw file** on the GitHub file page. Each collection README links directly to the files archived there.
+
 The canonical files remain under `federal/`, `state/`, `parish/`, `municipal/`, and `courts/` by source or custodian. `other-public-documents/` holds identified company, project, and other public publications; collection READMEs distinguish these from agency records.
 
 ## Use and contribute

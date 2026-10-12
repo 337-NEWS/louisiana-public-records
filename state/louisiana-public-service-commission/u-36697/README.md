@@ -6,8 +6,8 @@
 
 ## Files
 
-- `2023-05-12-application-phase2-public-redacted.pdf` — Public redacted version of the Phase 2 application. The source document was already labeled redacted when supplied; this archive did not make the redactions.
-- `2024-06-14-order-u-36697-corrected.pdf` — Corrected commission order.
+- [2023-05-12-application-phase2-public-redacted.pdf](2023-05-12-application-phase2-public-redacted.pdf) — Public redacted version of the Phase 2 application. The source document was already labeled redacted when supplied; this archive did not make the redactions.
+- [2024-06-14-order-u-36697-corrected.pdf](2024-06-14-order-u-36697-corrected.pdf) — Corrected commission order.
 
 The application is the company's proposal; the corrected order records the commission's decision. These files are selected docket records.
 

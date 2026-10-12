@@ -9,7 +9,7 @@
 
 ## Files
 
-- `request/2026-06147-dalton-barron-request.pdf` — FAA copy of the submitted FOIA request.
+- [request/2026-06147-dalton-barron-request.pdf](request/2026-06147-dalton-barron-request.pdf) — FAA copy of the submitted FOIA request.
 
 The request covers FAA Office of Commercial Space Transportation records concerning Section 106 initiation, APE materials, cultural-resource surveys, interagency and tribal consultation, known archaeological resources, and prior work associated with the former ExxonMobil Pecan Island property.
 

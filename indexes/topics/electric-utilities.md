@@ -10,6 +10,10 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [1803 Electric Cooperative documents](../../other-public-documents/miso/1803-electric-cooperative/README.md)
+
+- [MISO utility records](../../other-public-documents/miso/service-agreements/README.md)
+
 - [beauregard-electric-cooperative](../organizations/beauregard-electric-cooperative.md)
 - [entergy-louisiana](../organizations/entergy-louisiana.md)
 - [waterford-3](../projects/waterford-3.md)

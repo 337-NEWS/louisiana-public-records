@@ -10,5 +10,9 @@ These links identify records that discuss this infrastructure category. They do 
 
 ## Source collections
 
+- [1803 Electric Cooperative facility and planning records](../../other-public-documents/miso/1803-electric-cooperative/README.md)
+
+- [MISO transmission and interconnection records](../../other-public-documents/miso/service-agreements/README.md)
+
 - [u-37882](../../state/louisiana-public-service-commission/u-37882/README.md)
 - [i-36181](../../state/louisiana-public-service-commission/i-36181/README.md)

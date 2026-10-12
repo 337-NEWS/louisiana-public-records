@@ -4,6 +4,8 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Energy & utilities
 
+- [MISO — 1803 Electric Cooperative records](other-public-documents/miso/1803-electric-cooperative/README.md)
+- [MISO — selected Louisiana service agreements](other-public-documents/miso/service-agreements/README.md)
 - [Entergy Corporation — June 30, 2026 Form 10-Q](federal/sec/entergy/README.md)
 - [Beauregard Electric Cooperative — Public Documents](other-public-documents/beauregard-electric-cooperative/README.md)
 - [LPSC Docket I-36181 — Entergy Louisiana 2023 Integrated Resource Plan](state/louisiana-public-service-commission/i-36181/README.md)

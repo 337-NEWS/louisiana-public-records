@@ -10,6 +10,12 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [Lacassine Solar](../projects/lacassine-solar.md)
+- [Lacassine Solar II](../projects/lacassine-solar-ii.md)
+- [Mowata Solar](../projects/mowata-solar.md)
+
+- [MISO solar interconnection agreements](../../other-public-documents/miso/service-agreements/README.md)
+
 - [solar-permits](../../state/louisiana-department-of-conservation-and-energy/solar-permits/README.md)
 - [singer-solar](../projects/singer-solar.md)
 - [mondu-solar](../projects/mondu-solar.md)

@@ -1,5 +1,9 @@
 # Projects
 
+- [Lacassine Solar](lacassine-solar.md)
+- [Lacassine Solar II](lacassine-solar-ii.md)
+- [Mowata Solar](mowata-solar.md)
+
 - [Cajun Crescent Energy Center](cajun-crescent-energy-center.md)
 - [Meta Richland Data Center](meta-richland-data-center.md)
 - [Mondu Solar](mondu-solar.md)

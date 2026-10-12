@@ -1,7 +1,7 @@
 ---
 title: "Singer Solar"
 type: project
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Singer Solar
@@ -18,6 +18,7 @@ Beauregard Parish, as stated in the Corps collection.
 ## Timeline
 - 2024-04-01: [USACE public notice](../../federal/usace/singer-solar/2024-04-01-public-notice-mvn-2022-01198-wll.pdf).
 - 2025-09-12: [State immediate solar permit ISP00005](../../state/louisiana-department-of-conservation-and-energy/solar-permits/2025-09-12-isp00005-singer-solar.pdf).
+- 2026-06-25: [MISO/Cleco second revised generator interconnection agreement, SA 3842](../../other-public-documents/miso/service-agreements/cleco_singer-solar_gia-sa3842.pdf).
 - 2026-10-11: [NextEra project-page print](../../other-public-documents/singer-solar/2026-10-11-nextera-project-webpage.pdf).
 
 ## Government records
@@ -28,4 +29,7 @@ Beauregard Parish, as stated in the Corps collection.
 - [NextEra project-page print](../../other-public-documents/singer-solar/2026-10-11-nextera-project-webpage.pdf) (publisher statement)
 
 ## Open documentary questions
+
+The [MISO/Cleco generator interconnection agreement](../../other-public-documents/miso/service-agreements/cleco_singer-solar_gia-sa3842.pdf) documents contractual interconnection terms. It does not establish that the facility was built or energized.
+
 Whether construction proceeded, and the disposition of any separate federal authorization, are not established by these archived records.

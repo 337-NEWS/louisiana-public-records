@@ -10,6 +10,8 @@ These links identify records that discuss this infrastructure category. They do 
 
 ## Source collections
 
+- [MISO generator interconnection agreements](../../other-public-documents/miso/service-agreements/README.md)
+
 - [u-37882](../../state/louisiana-public-service-commission/u-37882/README.md)
 - [i-36181](../../state/louisiana-public-service-commission/i-36181/README.md)
 - [solar-permits](../../state/louisiana-department-of-conservation-and-energy/solar-permits/README.md)

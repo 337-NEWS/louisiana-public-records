@@ -12,6 +12,9 @@ The archive holds selected LPSC dockets. An application states a party's request
 
 ## Archived records and collections
 
+- [U-35927 — 1803 Electric docket document listing](../../state/louisiana-public-service-commission/u-35927/README.md)
+- [U-37134 — 1803 Electric docket document listing](../../state/louisiana-public-service-commission/u-37134/README.md)
+- [U-37441 — 1803 Electric docket document listing](../../state/louisiana-public-service-commission/u-37441/README.md)
 - [X-37665 — 1803 Electric 2025 RFP filing](../../state/louisiana-public-service-commission/x-37665/README.md)
 
 - [R-36262 — electric cooperative IRP general order](../../state/louisiana-public-service-commission/r-36262/README.md)

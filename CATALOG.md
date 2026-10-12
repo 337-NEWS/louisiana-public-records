@@ -4,6 +4,9 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Energy & utilities
 
+- [LPSC U-35927 — 1803 Electric docket document listing](state/louisiana-public-service-commission/u-35927/README.md)
+- [LPSC U-37134 — 1803 Electric docket document listing](state/louisiana-public-service-commission/u-37134/README.md)
+- [LPSC U-37441 — 1803 Electric docket document listing](state/louisiana-public-service-commission/u-37441/README.md)
 - [LPSC X-37665 — 1803 Electric 2025 RFP](state/louisiana-public-service-commission/x-37665/README.md)
 - [1803 Electric third-party publications and data prints](other-public-documents/1803-electric-third-party-publications/README.md)
 

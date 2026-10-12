@@ -1,7 +1,7 @@
 ---
 title: "Louisiana Public Service Commission"
 type: agency
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Louisiana Public Service Commission
@@ -11,6 +11,9 @@ updated: 2026-10-11
 The archive holds selected LPSC dockets. An application states a party's request; a commission order records the agency's decision. These selections are not complete dockets.
 
 ## Archived records and collections
+
+- [R-36262 — electric cooperative IRP general order](../../state/louisiana-public-service-commission/r-36262/README.md)
+- [1803 Electric — 2026 IRP initiation request](../../state/louisiana-public-service-commission/1803-electric-2026-irp-initiation/README.md)
 
 - [i-36181](../../state/louisiana-public-service-commission/i-36181/README.md)
 - [r-34247](../../state/louisiana-public-service-commission/r-34247/README.md)

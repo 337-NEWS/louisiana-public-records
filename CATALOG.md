@@ -4,6 +4,9 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Energy & utilities
 
+- [LPSC R-36262 — electric cooperative IRP rules](state/louisiana-public-service-commission/r-36262/README.md)
+- [1803 Electric — 2026 IRP initiation filing](state/louisiana-public-service-commission/1803-electric-2026-irp-initiation/README.md)
+
 - [MISO — 1803 Electric Cooperative records](other-public-documents/miso/1803-electric-cooperative/README.md)
 - [MISO — selected Louisiana service agreements](other-public-documents/miso/service-agreements/README.md)
 - [Entergy Corporation — June 30, 2026 Form 10-Q](federal/sec/entergy/README.md)

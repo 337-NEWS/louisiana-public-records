@@ -56,6 +56,7 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Government / agencies
 
+- [Sulphur City Council — selected 2026 records](municipal/sulphur/city-council/2026/README.md)
 - [Starbase Louisiana — FAA FOIA](federal/faa/starbase-louisiana-section-106/README.md)
 - [Vermilion Lock — National Register Eligibility Evaluation](federal/usace/vermilion-lock/README.md)
 - [Louisiana Legislature — 2025 regular session](state/louisiana-legislature/2025-regular-session/README.md)

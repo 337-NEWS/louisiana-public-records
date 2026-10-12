@@ -10,6 +10,7 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [Sulphur City Council meeting records](../../municipal/sulphur/city-council/2026/README.md)
 - [x-37183](../../state/louisiana-public-service-commission/x-37183/README.md)
 - [district-attorney-14th-judicial-district](../../parish/calcasieu-parish/district-attorney-14th-judicial-district/README.md)
 - [2017-04-25](../../state/louisiana-legislature/house-commerce-committee/2017-04-25/README.md)

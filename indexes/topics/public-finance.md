@@ -10,6 +10,7 @@ Navigation to archived collections and source records. Inclusion groups document
 
 ## Records and indexes
 
+- [Sulphur City Council budget message and meeting records](../../municipal/sulphur/city-council/2026/README.md)
 - [sheriff](../../parish/beauregard-parish/sheriff/README.md)
 - [police-jury](../../parish/jefferson-davis-parish/police-jury/README.md)
 - [marsh-bayou-drainage-district](../../parish/jefferson-davis-parish/marsh-bayou-drainage-district/README.md)

@@ -56,6 +56,7 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 ## Courts
 
 - [Zelenak v. Beauregard Electric Cooperative, Inc. et al.](courts/federal/wdla/zelenak-v-beauregard-electric-cooperative/README.md)
+- [Brian R. Zelenak — LinkedIn experience page print (third-party context)](other-public-documents/brian-zelenak-linkedin/README.md)
 - [Louisiana Court of Appeal, Third Circuit](courts/louisiana/third-circuit/README.md)
 
 ## Public finance

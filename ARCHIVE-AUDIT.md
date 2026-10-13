@@ -4,7 +4,7 @@
 
 | Measure | Count |
 | --- | ---: |
-| Archived source files | 174 |
+| Archived source files | 178 |
 | Source collections | 49 |
 | Collections with a README | 49 |
 | Collections without a README | 0 |
@@ -16,17 +16,18 @@
 | Infrastructure index pages | 5 |
 | Documented request or production entries in `REQUESTS.md` | 3 |
 
-All 174 archived source files comprise 166 PDFs, seven DOCX files, and one XLSX file. Each source file is under a collection with a README. The root [catalog](CATALOG.md) links to all 49 collections. The indexes link to canonical files or collections without copying source files. A SHA-256 comparison found no byte-identical source files at different archive paths. Exact duplicate standalone copies of three Lacassine agreements were not added twice. The previously supplied duplicate of the Zelenak Document 35 ruling remains unarchived, as noted in its collection README.
+All 178 archived source files comprise 170 PDFs, seven DOCX files, and one XLSX file. Each source file is under a collection with a README. The root [catalog](CATALOG.md) links to all 49 collections. The indexes link to canonical files or collections without copying source files. A SHA-256 comparison found no byte-identical source files at different archive paths. Exact duplicate standalone copies of three Lacassine agreements were not added twice. The previously supplied duplicate of the Zelenak Document 35 ruling remains unarchived, as noted in its collection README.
 
 ## Link and navigation review
 
-The repository's Markdown link checker examined 473 local links after the navigation changes and found no broken targets. Every archived source file is linked from its collection README. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
+The repository's Markdown link checker examined 477 local links after the navigation changes and found no broken targets. Every archived source file is linked from its collection README. Every collection has a path from the catalog. Every subject index page has a path from its category README and the top-level index. External source links were not included in the local-file check.
 
 ## Collection status and provenance limits
 
 - The FAA and USACE Starbase/Pecan Island collections contain request files without archived responses.
 - The Governor's Office carbon-capture collection contains production parts 4 and 5 only. Earlier parts were not reconstructed.
 - LPSC docket directories hold selected filings, orders, testimony, or notices; they do not claim to be complete docket mirrors.
+- LPSC U-37882 includes the September 28 and 29 joint pre-hearing statements and the October 2 and 6 amended versions. Fax and original versions are archived separately as filed; they do not establish a commission decision.
 - Company/project pages under `other-public-documents/` are separately identified from agency records. The Beauregard Electric Cooperative collection contains organizational records rather than a single agency production.
 - Publication-redacted copies, agency-redacted filings, and the correction history in LPSC U-37483 remain disclosed in collection READMEs.
 - The Waterford 3 permit package is marked draft. Its archived notice and package do not establish a final decision.

@@ -61,6 +61,7 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Public finance
 
+- [City of Sulphur — FY2025 annual financial report](municipal/sulphur/annual-financial-report-fy2025/README.md)
 - [City Court of Lake Charles — Financial Reports](municipal/lake-charles/city-court/README.md)
 - [Beauregard Parish Sheriff — Financial Reports](parish/beauregard-parish/sheriff/README.md)
 - [District Attorney for the 14th Judicial District — Investigative Audit](parish/calcasieu-parish/district-attorney-14th-judicial-district/README.md)

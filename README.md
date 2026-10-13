@@ -4,6 +4,7 @@ A public source-document archive maintained by [337.NEWS](https://337.news) for 
 
 ## Find records
 
+- [Local topics people are discussing](HOT-TOPICS.md) — plain-language entry points for Orion, Starbase, Sulphur, BECI, and other records that come up in local conversations.
 - [Catalog](CATALOG.md) — every collection, grouped by subject and source.
 - [Knowledge indexes](indexes/README.md) — browse by project, person, organization, agency, topic, or infrastructure without duplicating source files.
 - [Documented requests](REQUESTS.md) — requests and productions evidenced in this repository.

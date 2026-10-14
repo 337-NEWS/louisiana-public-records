@@ -1,0 +1,154 @@
+{
+ "id": 260203199,
+ "generated_unique_award_id": "ASST_NON_CLSS00000091258_012",
+ "fain": "CLSS00000091258",
+ "uri": null,
+ "category": "loans",
+ "type": "07",
+ "type_description": "DIRECT LOAN (E)",
+ "description": "ELEC SECTION 4 TREASURY RATE",
+ "subaward_count": 0,
+ "total_subaward_amount": null,
+ "total_subsidy_cost": 668713.5,
+ "total_loan_value": 41535000.0,
+ "total_obligation": 0.0,
+ "date_signed": "2025-03-06",
+ "base_and_all_options": null,
+ "base_exercised_options": null,
+ "non_federal_funding": 0.0,
+ "total_funding": 0.0,
+ "total_account_outlay": 0,
+ "total_account_obligation": 0,
+ "account_outlays_by_defc": [],
+ "account_obligations_by_defc": [],
+ "record_type": 2,
+ "cfda_info": [
+  {
+   "applicant_eligibility": "Rural electric cooperatives, public utility districts, municipalities, corporations, and other qualified power suppliers including those located in the U.S. Territories, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau. ",
+   "beneficiary_eligibility": "Beneficiary eligibility is the same as applicant eligibility.\nPersons, businesses, public bodies, tribal entities, and other entities in rural areas (as defined in program regulations) or those currently served through RUS electric loans. Rural areas are defined in the Rural Electrification Act and program regulations as any area of the United States, or eligible insular areas, other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants, or any area within a service area of an entity with an outstanding Rural Electrification Act loan on June 18, 2008.",
+   "cfda_federal_agency": "RURAL UTILITIES SERVICE, AGRICULTURE, DEPARTMENT OF",
+   "cfda_number": "10.850",
+   "cfda_objectives": "This program is to provide lower cost financing for rural utilities to assure that people in eligible rural areas have access to electric services comparable in reliability and quality to the rest of the Nation and to assist electric utilities in implementation of demand-side management, energy efficiency and conservation programs and on-grid and off-grid renewable energy systems.",
+   "cfda_obligations": "(Loan Guarantee) FY 24$3,270,591,000.00; FY 25$3,607,649,000.00; FY 26 est $3,577,000,000.00; - (Direct Loan) FY 24$4,060,079,000.00; FY 25$5,415,651,021.00; FY 26 est $4,333,000,000.00; - ",
+   "cfda_popular_name": "Electric Loans and Loan Guarantees",
+   "cfda_title": "Rural Electrification Loans and Loan Guarantees",
+   "cfda_website": "http://www.rd.usda.gov/programs-services/all-programs/electric-programs",
+   "federal_action_obligation_amount": 0.0,
+   "non_federal_funding_amount": 0.0,
+   "sam_website": "https://sam.gov/fal/30d27270c4b0472d82df61af0d0cc98b/view",
+   "total_funding_amount": 0.0
+  }
+ ],
+ "transaction_obligated_amount": null,
+ "funding_agency": {
+  "id": 157,
+  "has_agency_page": true,
+  "toptier_agency": {
+   "name": "Department of Agriculture",
+   "code": "012",
+   "abbreviation": "USDA",
+   "slug": "department-of-agriculture"
+  },
+  "subtier_agency": {
+   "name": "Rural Utilities Service",
+   "code": "12E2",
+   "abbreviation": "RUS"
+  },
+  "office_agency_name": "Electric Programs"
+ },
+ "awarding_agency": {
+  "id": 157,
+  "has_agency_page": true,
+  "toptier_agency": {
+   "name": "Department of Agriculture",
+   "code": "012",
+   "abbreviation": "USDA",
+   "slug": "department-of-agriculture"
+  },
+  "subtier_agency": {
+   "name": "Rural Utilities Service",
+   "code": "12E2",
+   "abbreviation": "RUS"
+  },
+  "office_agency_name": "Electric Programs"
+ },
+ "period_of_performance": {
+  "start_date": "2025-03-06",
+  "end_date": "2027-03-06",
+  "last_modified_date": "2025-04-18"
+ },
+ "recipient": {
+  "recipient_hash": "ee33cc22-2773-f56b-ccbe-db2c87eeac0f-R",
+  "recipient_name": "1803 ELECTRIC COOP",
+  "recipient_uei": "U3M1B4LBZ4P4",
+  "recipient_unique_id": null,
+  "parent_recipient_hash": null,
+  "parent_recipient_name": null,
+  "parent_recipient_uei": null,
+  "parent_recipient_unique_id": null,
+  "business_categories": [],
+  "location": {
+   "location_country_code": "USA",
+   "country_name": "UNITED STATES",
+   "state_code": "LA",
+   "state_name": "LOUISIANA",
+   "city_name": "BATON ROUGE",
+   "county_code": "033",
+   "county_name": "EAST BATON ROUGE",
+   "address_line1": "4601 BLUEBONNET BLVD.",
+   "address_line2": null,
+   "address_line3": null,
+   "congressional_code": "05",
+   "zip4": "9656",
+   "zip5": "70809",
+   "foreign_postal_code": null,
+   "foreign_province": null
+  }
+ },
+ "executive_details": {
+  "officers": [
+   {
+    "name": null,
+    "amount": null
+   },
+   {
+    "name": null,
+    "amount": null
+   },
+   {
+    "name": null,
+    "amount": null
+   },
+   {
+    "name": null,
+    "amount": null
+   },
+   {
+    "name": null,
+    "amount": null
+   }
+  ]
+ },
+ "place_of_performance": {
+  "location_country_code": "USA",
+  "country_name": "UNITED STATES",
+  "county_code": "033",
+  "county_name": "EAST BATON ROUGE",
+  "city_name": "BATON ROUGE",
+  "state_code": "LA",
+  "state_name": "LOUISIANA",
+  "congressional_code": "05",
+  "zip4": "9656",
+  "zip5": "70809",
+  "address_line1": null,
+  "address_line2": null,
+  "address_line3": null,
+  "foreign_province": null,
+  "foreign_postal_code": null
+ },
+ "total_outlay": null,
+ "funding_opportunity": {
+  "number": null,
+  "goals": null
+ }
+}

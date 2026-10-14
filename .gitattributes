@@ -8,3 +8,5 @@ state/louisiana-public-service-commission/u-37963/u37963-exhibit-a-testimony-wil
 state/louisiana-public-service-commission/u-37963/u37963-exhibit-b-testimony-mark-kleehammer.pdf filter=lfs diff=lfs merge=lfs -text
 state/louisiana-public-service-commission/u-37963/u37963-exhibit-d-testimony-rob-kupchak-public-redacted.pdf filter=lfs diff=lfs merge=lfs -text
 state/louisiana-public-service-commission/u-37963/u37963-exhibit-jb-2.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37963/u37963-exhibit-c-testimony-kristin-guillory.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37969/u37969-testimony-vincent-m-sipowicz.pdf filter=lfs diff=lfs merge=lfs -text

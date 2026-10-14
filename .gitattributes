@@ -1,3 +1,10 @@
 *.pdf binary
 state/louisiana-department-of-environmental-quality/waterford-3/2025-02-04-draft-lpdes-permit-package-la0007374.pdf filter=lfs diff=lfs merge=lfs -text
 state/louisiana-public-service-commission/u-37425/u37425-application-revised-public-version-2024-12-13.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37425/u37425-joint-motion-investigation-financing-2026-01-14.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37801/u37801-testimony-laura-beauchamp-public-redacted-2025-12.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37812/u37812-testimony-chad-ladner-public-redacted-2025-12.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37963/u37963-exhibit-a-testimony-william-fontenot.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37963/u37963-exhibit-b-testimony-mark-kleehammer.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37963/u37963-exhibit-d-testimony-rob-kupchak-public-redacted.pdf filter=lfs diff=lfs merge=lfs -text
+state/louisiana-public-service-commission/u-37963/u37963-exhibit-jb-2.pdf filter=lfs diff=lfs merge=lfs -text

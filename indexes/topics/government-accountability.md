@@ -1,7 +1,7 @@
 ---
 title: "Government Accountability"
 type: topic
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Government Accountability
@@ -13,4 +13,6 @@ Navigation to archived collections and source records. Inclusion groups document
 - [Sulphur City Council meeting records](../../municipal/sulphur/city-council/2026/README.md)
 - [x-37183](../../state/louisiana-public-service-commission/x-37183/README.md)
 - [district-attorney-14th-judicial-district](../../parish/calcasieu-parish/district-attorney-14th-judicial-district/README.md)
+- [usa-v-gary-haynes (15th JDC corruption prosecution)](../../courts/federal/wdla/usa-v-gary-haynes/README.md)
+- [Louisiana Supreme Court annual reports (15th JDC statistics)](../../state/louisiana-supreme-court/README.md)
 - [2017-04-25](../../state/louisiana-legislature/house-commerce-committee/2017-04-25/README.md)

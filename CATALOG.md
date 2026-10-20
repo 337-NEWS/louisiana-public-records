@@ -49,6 +49,8 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Solar
 
+- [Calcasieu Parish School Board — Persimmon Gulch / Orion public-records production](parish/calcasieu-parish/calcasieu-parish-school-board/persimmon-gulch-orion/README.md)
+
 - [Singer Solar — U.S. Army Corps of Engineers public notice](federal/usace/singer-solar/README.md)
 - [Cajun Crescent Energy Center — Aypa project webpage](other-public-documents/cajun-crescent-energy-center/README.md)
 - [Persimmon Energy project materials](other-public-documents/persimmon-energy/README.md)
@@ -100,3 +102,4 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 - [Organizations](indexes/organizations/README.md): Beauregard Electric Cooperative, Entergy Louisiana, NextEra, Aypa, Orion, and others.
 - [Topics](indexes/topics/README.md): solar, public finance, litigation, public records, permitting, and more.
 - [Infrastructure](indexes/infrastructure/README.md): source-grounded navigation for generation, transmission, pipelines, and large-load customers.
+

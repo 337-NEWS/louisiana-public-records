@@ -20,10 +20,14 @@ Collected by 337.news, October 23, 2026.
 
 ## Caveats
 
-- The full text of Resolution No. 38 of 2026 is not posted online; the jury's website publishes agendas but, as of October 23, 2026, no 2026 minutes or resolutions. The resolution number and subject are established by the October 23, 2026 special call agenda.
-- Outcomes of the October 19 and October 23, 2026 votes were not published in any source checked as of the night of October 23, 2026. This collection will be updated when the minutes or coverage post.
+- The full text of Resolution No. 38 of 2026 is not posted online; the jury's website publishes agendas but, as of October 23, 2026, no complete 2026 minutes or resolutions relevant to this matter were posted. The resolution number and subject are established by the October 23 special call agenda.
+- Press coverage after the October 23 meeting reports that the Police Jury unanimously adopted the amended solar ordinance and rescinded the moratorium. The official October 23 minutes and executed ordinance were not posted when this collection was last reviewed.
 - News coverage used in reporting (Vernon Parish Journal, Rapides Parish Journal, Kingfish) is cited in the article's reporting notes and retained in the newsroom's files; it is not redistributed here.
 
 ## Related company material
 
 - [Treaty Oak Clean Energy investor page capture](../../../../other-public-documents/treaty-oak-clean-energy/README.md) — company-published context on Treaty Oak's Macquarie backing. This is not a parish or agency record.
+
+## 337.NEWS records request
+
+- [October 23, 2026 public-records request](PUBLIC-RECORDS-REQUEST-2026-10-23.md) — request for Resolution No. 38, the executed amended ordinance, official vote/minutes, any Sunstripe parish permit/application materials, and project materials submitted to the Police Jury. Response pending.

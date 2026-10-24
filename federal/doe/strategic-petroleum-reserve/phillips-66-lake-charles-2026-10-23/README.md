@@ -18,6 +18,10 @@ DOE's public announcement did not identify the cause of the temporary crude-deli
 
 DOE's SPR Quick Facts page reported 23.7 million barrels stored at West Hackberry as of October 16, 2026.
 
+## 337.NEWS records request
+
+- [October 23, 2026 DOE FOIA request](FOIA-REQUEST-2026-10-23.md) — request for Phillips 66's submission, DOE approval, exchange terms, cause/duration of the disruption, represented operational impacts, and related communications. Response pending.
+
 ## Archive metadata
 
 - Source/custodian: U.S. Department of Energy.

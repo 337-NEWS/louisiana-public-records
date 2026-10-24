@@ -16,12 +16,12 @@ Collected by 337.news, October 23, 2026.
 - August 10, 2026: the Police Jury unanimously adopted Resolution No. 38 of 2026, a temporary moratorium on the development, establishment and construction of solar farms in unincorporated Vernon Parish (special call meeting; the moratorium motion is item 7 of the Aug 10 special agenda).
 - Ordinance No. 9 of 2025 is the parish's pre-existing solar farm ordinance. The posted draft amendment restates it with changes: public-road setback 150 ft to 300 ft; a new 500-ft setback from private property lines, reducible by the owner's written agreement; decommissioning bond re-evaluation every 3 years instead of 5; a required community meeting; and written reasons for any permit denial, with 30 days to cure and an appeal to the Police Jury.
 - October 19, 2026: adoption of the amendment was item 10 on the regular meeting agenda.
-- October 23, 2026: the special call agenda lists adoption of the amendment (item 7) and rescission of Resolution No. 38 (item 8).
+- October 23, 2026: the special call agenda lists adoption of the amendment (item 7) and rescission of Resolution No. 38 (item 8). KPLC reported after the meeting that the Police Jury voted unanimously to lift the temporary moratorium and also voted to amend the solar-development ordinance.
 
 ## Caveats
 
 - The full text of Resolution No. 38 of 2026 is not posted online; the jury's website publishes agendas but, as of October 23, 2026, no complete 2026 minutes or resolutions relevant to this matter were posted. The resolution number and subject are established by the October 23 special call agenda.
-- Press coverage after the October 23 meeting reports that the Police Jury unanimously adopted the amended solar ordinance and rescinded the moratorium. The official October 23 minutes and executed ordinance were not posted when this collection was last reviewed.
+- [KPLC reported October 23, 2026](https://www.kplctv.com/2026/10/24/vernon-parish-clears-path-10000-acre-treaty-oak-solar-farm-near-pitkin/) that the Police Jury voted unanimously to lift the temporary solar moratorium and also voted to amend the ordinance regulating solar-farm site development. The official October 23 minutes and executed ordinance were not posted when this collection was last reviewed, so the archive distinguishes the reported meeting outcome from the still-pending official records requested from the Parish.
 - News coverage used in reporting (Vernon Parish Journal, Rapides Parish Journal, Kingfish) is cited in the article's reporting notes and retained in the newsroom's files; it is not redistributed here.
 
 ## Related company material

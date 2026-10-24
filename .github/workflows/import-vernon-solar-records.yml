@@ -6,16 +6,21 @@ on:
     paths:
       - ".github/workflows/import-vernon-solar-records.yml"
   workflow_dispatch:
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   import-records:
+    if: github.event_name != 'issues' || github.event.issue.title == '[archive-import] Vernon solar records'
     runs-on: ubuntu-latest
     steps:
       - name: Check out archive
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Download Vernon Parish source PDFs
         shell: bash

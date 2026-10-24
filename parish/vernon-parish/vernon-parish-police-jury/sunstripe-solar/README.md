@@ -23,3 +23,7 @@ Collected by 337.news, October 23, 2026.
 - The full text of Resolution No. 38 of 2026 is not posted online; the jury's website publishes agendas but, as of October 23, 2026, no 2026 minutes or resolutions. The resolution number and subject are established by the October 23, 2026 special call agenda.
 - Outcomes of the October 19 and October 23, 2026 votes were not published in any source checked as of the night of October 23, 2026. This collection will be updated when the minutes or coverage post.
 - News coverage used in reporting (Vernon Parish Journal, Rapides Parish Journal, Kingfish) is cited in the article's reporting notes and retained in the newsroom's files; it is not redistributed here.
+
+## Related company material
+
+- [Treaty Oak Clean Energy investor page capture](../../../../other-public-documents/treaty-oak-clean-energy/README.md) — company-published context on Treaty Oak's Macquarie backing. This is not a parish or agency record.

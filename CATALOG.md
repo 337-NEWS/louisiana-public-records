@@ -51,6 +51,8 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Solar
 
+- [Sunstripe Solar — Vernon Parish Police Jury records](parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/README.md)
+- [Treaty Oak Clean Energy — investor page capture](other-public-documents/treaty-oak-clean-energy/README.md)
 - [Calcasieu Parish School Board — Persimmon Gulch / Orion public-records production](parish/calcasieu-parish/calcasieu-parish-school-board/persimmon-gulch-orion/README.md)
 
 - [Singer Solar — U.S. Army Corps of Engineers public notice](federal/usace/singer-solar/README.md)

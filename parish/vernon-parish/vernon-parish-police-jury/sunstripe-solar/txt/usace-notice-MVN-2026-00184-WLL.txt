@@ -1,0 +1,23 @@
+TEXT CAPTURE — U.S. Army Corps of Engineers, New Orleans District, Public Notice page
+URL: https://www.mvn.usace.army.mil/Missions/Regulatory/Public-Notices/Article/4537854/mvn-2026-00184-wll/
+Captured via browser fetch, 2026-10-23 (direct curl to usace.army.mil returned an access-denied page; this text is from the browser-rendered fetch of the same URL).
+
+---
+MVN-2026-00184-WLL
+CEMVN-RGW
+Published July 13, 2026
+Expiration date: 8/2/2026
+
+APPLICANT: Jenny Monsonmiller
+Treaty Oak Clean Energy, LLC
+2901 Via Fortuna, 650
+Austin, TX 78746
+
+AGENT: Ellen Mullins
+ERM
+901 Woodland Street, Suite 104
+Nashville, TN 37206
+
+LOCATION OF WORK: The proposed activity would affect waters associated with the Calcasieu River. The project/review area is located at 2307 LA Highway 121 in the Community of Hineston, within Rapides Parish, Louisiana at (31.1715, -92.7519).
+
+DESCRIPTION OF WORK: The applicant requests authorization to construct a 4,554-acre Phase 1 solar array and substation, a 5,688-acre Phase 2 solar array, and a 114-acre 9-mile generation interconnect aerial utility line with monopoles, all to produce renewable energy in the Central Louisiana region.

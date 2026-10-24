@@ -1,0 +1,25 @@
+# Sunstripe Solar — Vernon Parish Police Jury records
+
+Records concerning the Vernon Parish Police Jury's solar farm moratorium and ordinance amendment, and the Sunstripe solar project proposed by Treaty Oak Clean Energy, LLC (through TO LA Solar 1, LLC) near Hineston, spanning Vernon and Rapides parishes.
+
+Collected by 337.news, October 23, 2026.
+
+## What's here
+
+- `docs/` — Vernon Parish Police Jury meeting agendas (PDF) and the jury's posted draft amendment to Ordinance No. 9 of 2025, downloaded from the jury's website (vppjla.com).
+- `txt/` — text extractions of the documents, plus the text of U.S. Army Corps of Engineers public notice MVN-2026-00184-WLL (published July 13, 2026).
+- `manifest.md` — document-by-document provenance: source, date, and what each document establishes.
+- `sha256sums.txt` — SHA-256 checksums for the archived documents.
+
+## Key facts these records establish
+
+- August 10, 2026: the Police Jury unanimously adopted Resolution No. 38 of 2026, a temporary moratorium on the development, establishment and construction of solar farms in unincorporated Vernon Parish (special call meeting; the moratorium motion is item 7 of the Aug 10 special agenda).
+- Ordinance No. 9 of 2025 is the parish's pre-existing solar farm ordinance. The posted draft amendment restates it with changes: public-road setback 150 ft to 300 ft; a new 500-ft setback from private property lines, reducible by the owner's written agreement; decommissioning bond re-evaluation every 3 years instead of 5; a required community meeting; and written reasons for any permit denial, with 30 days to cure and an appeal to the Police Jury.
+- October 19, 2026: adoption of the amendment was item 10 on the regular meeting agenda.
+- October 23, 2026: the special call agenda lists adoption of the amendment (item 7) and rescission of Resolution No. 38 (item 8).
+
+## Caveats
+
+- The full text of Resolution No. 38 of 2026 is not posted online; the jury's website publishes agendas but, as of October 23, 2026, no 2026 minutes or resolutions. The resolution number and subject are established by the October 23, 2026 special call agenda.
+- Outcomes of the October 19 and October 23, 2026 votes were not published in any source checked as of the night of October 23, 2026. This collection will be updated when the minutes or coverage post.
+- News coverage used in reporting (Vernon Parish Journal, Rapides Parish Journal, Kingfish) is cited in the article's reporting notes and retained in the newsroom's files; it is not redistributed here.

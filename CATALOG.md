@@ -20,6 +20,8 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 - [MISO — selected Louisiana service agreements](other-public-documents/miso/service-agreements/README.md)
 - [USDA Rural Utilities Service — 1803 Electric loan award](federal/usda/rural-utilities-service/1803-electric/README.md)
 - [FERC RM26-4 — large-load rulemaking](federal/ferc/rm26-4/README.md)
+- [FERC CP24-494 — Black Bayou Gas Storage](federal/ferc/cp24-494-black-bayou-gas-storage/README.md)
+- [DOE SPR — Phillips 66 Lake Charles emergency exchange, October 23, 2026](federal/doe/strategic-petroleum-reserve/phillips-66-lake-charles-2026-10-23/README.md)
 - [FERC EL26-70 — MISO large-load show-cause order](federal/ferc/el26-70/README.md)
 - [FERC ER26-3650 — MISO reliability requirements](federal/ferc/er26-3650/README.md)
 - [FERC ER27-25 — MISO large-load study process](federal/ferc/er27-25/README.md)
@@ -63,6 +65,7 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## LNG / pipelines and carbon storage
 
+- [Cameron Parish Police Jury — Black Bayou Gas Storage public notices and ITEP meeting materials](parish/cameron-parish/police-jury/black-bayou-gas-storage/README.md)
 - [Louisiana Governor's Office — Carbon Capture Records](state/governors-office/carbon-capture/README.md)
 - [Pecan Island Area Project — Coastal Management Records](state/office-of-coastal-management/pecan-island-area-project/README.md)
 - [Pipeline dockets PL 25-016 through PL 25-019](state/office-of-conservation/pipeline-dockets-pl-25-016-to-pl-25-019/README.md)

@@ -10,6 +10,7 @@ This tracker includes requests or responses evidenced by files in this archive. 
 | [CPSB Persimmon Gulch / Orion production](parish/calcasieu-parish/calcasieu-parish-school-board/persimmon-gulch-orion/README.md) | Calcasieu Parish School Board | Persimmon Gulch / Orion solar project | Not established in this collection; request correspondence excluded for privacy | Three response attachments archived; request completeness not established | Received 2026-10-19 from Superintendent Jason VanMetre |
 | [DOE Phillips 66 SPR exchange FOIA](federal/doe/strategic-petroleum-reserve/phillips-66-lake-charles-2026-10-23/FOIA-REQUEST-2026-10-23.md) | U.S. Department of Energy | Phillips 66 Lake Charles emergency SPR exchange | 2026-10-23 | Request sent; response pending | None yet |
 | [Black Bayou ITEP public-records request](parish/cameron-parish/police-jury/black-bayou-gas-storage/PUBLIC-RECORDS-REQUEST-2026-10-23.md) | Cameron Parish Police Jury | Black Bayou Gas Storage ITEP records | 2026-10-23 | Request sent; response pending | None yet |
+| [Sunstripe Solar / Vernon Parish public-records request](parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/PUBLIC-RECORDS-REQUEST-2026-10-23.md) | Vernon Parish Police Jury | Sunstripe Solar, Resolution No. 38, Oct. 23 ordinance and permit records | 2026-10-23 | Request sent; response pending | None yet |
 
 Consult each collection for provenance and the exact request or production files. No missing parts were recreated.
 

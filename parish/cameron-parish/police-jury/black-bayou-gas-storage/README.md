@@ -19,6 +19,10 @@ The parish notice identifies CP26-257-000 as an amendment request to add storage
 
 The published agenda called for a resolution recommending an Industrial Tax Exemption for Black Bayou Gas Storage Hub, LLC at 1642 Gum Cove Road, Hackberry. The agenda note listed estimated capital investment of $685,044,649.
 
+## 337.NEWS records request
+
+- [October 23, 2026 public-records request](PUBLIC-RECORDS-REQUEST-2026-10-23.md) — request for ITEP application/supporting material, tax-impact estimates, jobs/payroll representations, economic analyses, communications, and local commitments. Response pending.
+
 ## Related federal docket
 
 See [FERC CP24-494 — Black Bayou Gas Storage](../../../../federal/ferc/cp24-494-black-bayou-gas-storage/README.md).

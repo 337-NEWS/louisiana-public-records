@@ -1,0 +1,76 @@
+name: Import Vernon solar source PDFs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/import-vernon-solar-records.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-records:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out archive
+        uses: actions/checkout@v4
+
+      - name: Download Vernon Parish source PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          DIR="parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/docs"
+          mkdir -p "$DIR"
+
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/08/2026.08.10-Cmte-Mtg.pdf" -o "$DIR/2026.08.10-Cmte-Mtg.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/08/2026.08.10-Spec-Agenda.pdf" -o "$DIR/2026.08.10-Spec-Agenda.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/08/2026.08.17-Reg-Mtg.pdf" -o "$DIR/2026.08.17-Reg-Mtg.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/09/2026.09.14-Cmte-Mtg.pdf" -o "$DIR/2026.09.14-Cmte-Mtg.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/09/2026.09.14-Spec-Agenda.pdf" -o "$DIR/2026.09.14-Spec-Agenda.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/10/2026.10-Ord-No-Amend-Solar-Farm-2.pdf" -o "$DIR/2026.10-Ord-No-Amend-Solar-Farm-2.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/10/2026.10.19-Reg-Mtg.pdf" -o "$DIR/2026.10.19-Reg-Mtg.pdf"
+          curl -fL "https://www.vppjla.com/wp-content/uploads/2026/10/2026.10.22-Spec-Agenda.pdf" -o "$DIR/2026.10.22-Spec-Agenda.pdf"
+
+      - name: Verify Vernon Parish PDFs against archived checksums
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar
+          grep "  docs/" sha256sums.txt | sha256sum -c -
+
+      - name: Capture Treaty Oak investor page
+        shell: bash
+        run: |
+          set -euo pipefail
+          DIR="other-public-documents/treaty-oak-clean-energy"
+          mkdir -p "$DIR"
+          OUT="$DIR/our-investor-2026-10-23.pdf"
+
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || command -v chromium-browser || true)"
+          if [ -z "$CHROME" ]; then
+            echo "Chrome/Chromium not found on runner." >&2
+            exit 1
+          fi
+
+          "$CHROME"             --headless=new             --no-sandbox             --disable-gpu             --virtual-time-budget=15000             --no-pdf-header-footer             --print-to-pdf="$OUT"             "https://www.treatyoakcleanenergy.com/investor"
+
+          test -s "$OUT"
+          sha256sum "$OUT" > "$DIR/sha256sums.txt"
+
+      - name: Commit imported records
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "337.NEWS Archive Bot"
+          git config user.email "archive@337.news"
+          git add             parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/docs             other-public-documents/treaty-oak-clean-energy/our-investor-2026-10-23.pdf             other-public-documents/treaty-oak-clean-energy/sha256sums.txt
+
+          if git diff --cached --quiet; then
+            echo "No new files to commit."
+            exit 0
+          fi
+
+          git commit -m "Archive Vernon solar source PDFs and Treaty Oak investor page"
+          git push

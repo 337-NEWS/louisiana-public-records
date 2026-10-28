@@ -31,6 +31,8 @@
   }
   function render() {
     const query = input.value.trim().toLowerCase();
+    const aliases = { cpsb: "calcasieu-parish-school-board", beci: "beauregard electric", vppj: "vernon-parish-police-jury", co2: "carbon" };
+    const terms = [query, aliases[query]].filter(Boolean);
     const section = select.value;
     output.replaceChildren();
     if (!query && !section) {
@@ -43,8 +45,9 @@
     }
     const matches = all.map(c => {
       if (section && section !== c.section) return null;
-      const sectionMatch = (c.title + " " + c.section + " " + c.path).toLowerCase().includes(query);
-      const files = !query || sectionMatch ? c.files : c.files.filter(f => f.path.toLowerCase().includes(query));
+      const collectionText = (c.title + " " + c.section + " " + c.path).toLowerCase();
+      const sectionMatch = terms.some(term => collectionText.includes(term));
+      const files = !query || sectionMatch ? c.files : c.files.filter(f => terms.some(term => f.path.toLowerCase().includes(term)));
       return files.length ? { collection: c, files } : null;
     }).filter(Boolean);
     const total = matches.reduce((n, r) => n + r.files.length, 0);

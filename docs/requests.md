@@ -12,12 +12,12 @@ Status is based **only on documents preserved in this archive**, not a claim abo
 
 | Collection | Archived status |
 |:---|:---|
-| [Governor's Office: carbon capture]({{ '/browse/' | relative_url }}?q=carbon%20capture) | Selected response parts 4 and 5; completeness not established |
-| [Calcasieu Parish School Board: Persimmon Gulch / Orion]({{ '/browse/' | relative_url }}?q=Persimmon) | Three response attachments received October 19, 2026; request completeness not established |
-| [Vernon Parish Police Jury: Sunstripe]({{ '/browse/' | relative_url }}?q=Sunstripe) | October 23 request included; no response archived in the reviewed tracker |
-| [FAA: Starbase Louisiana]({{ '/browse/' | relative_url }}?q=Starbase) | Request only in archived collection |
-| [USACE: Pecan Island / Starbase]({{ '/browse/' | relative_url }}?q=Pecan%20Island) | Request only in archived collection |
-| [DOE: Phillips 66 SPR exchange]({{ '/browse/' | relative_url }}?q=Phillips%2066) | Request submitted October 23; response not yet archived in tracker |
-| [Cameron Parish: Black Bayou Gas Storage]({{ '/browse/' | relative_url }}?q=Black%20Bayou) | Request submitted October 23; response not yet archived in tracker |
+| [Governor's Office: carbon capture]({{ '/records/state/governors-office/carbon-capture/' | relative_url }}) | Selected response parts 4 and 5; completeness not established |
+| [Calcasieu Parish School Board: Persimmon Gulch / Orion]({{ '/records/parish/calcasieu-parish/calcasieu-parish-school-board/persimmon-gulch-orion/' | relative_url }}) | Three response attachments received October 19, 2026; request completeness not established |
+| [Vernon Parish Police Jury: Sunstripe]({{ '/records/parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/' | relative_url }}) | October 23 request included; no response archived in the reviewed tracker |
+| [FAA: Starbase Louisiana]({{ '/records/federal/faa/starbase-louisiana-section-106/' | relative_url }}) | Request only in archived collection |
+| [USACE: Pecan Island / Starbase]({{ '/records/federal/usace/pecan-island-starbase-louisiana/' | relative_url }}) | Request only in archived collection |
+| [DOE: Phillips 66 SPR exchange]({{ '/records/federal/doe/strategic-petroleum-reserve/phillips-66-lake-charles-2026-10-23/' | relative_url }}) | Request submitted October 23; response not yet archived in tracker |
+| [Cameron Parish: Black Bayou Gas Storage]({{ '/records/parish/cameron-parish/police-jury/black-bayou-gas-storage/' | relative_url }}) | Request submitted October 23; response not yet archived in tracker |
 
 For the canonical, updateable source of statuses and linked request evidence, consult the [repository's REQUESTS.md](https://github.com/337-NEWS/louisiana-public-records/blob/main/REQUESTS.md). An agency's absence from this list does not establish that no request was made.

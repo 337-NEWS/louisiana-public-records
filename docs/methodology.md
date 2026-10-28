@@ -30,4 +30,4 @@ A collection described as **selected**, **partial**, or **request-only** should 
 
 Every downloadable item includes a secondary **Source details** link to its canonical repository path. Consult the adjacent collection README and any available provenance notes or checksums before citing it. The [full preservation policy](https://github.com/337-NEWS/louisiana-public-records/blob/main/METHODOLOGY.md) and [contribution rules](https://github.com/337-NEWS/louisiana-public-records/blob/main/CONTRIBUTING.md) remain the authoritative documentation.
 
-[Browse source documents]({{ '/browse/' | relative_url }}){: .btn .btn-primary }
+[Browse by topic]({{ '/topics/' | relative_url }}){: .btn .btn-primary }

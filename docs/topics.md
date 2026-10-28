@@ -1,43 +1,65 @@
 ---
 layout: default
 title: Local topics
-nav_order: 3
+nav_order: 2
 permalink: /topics/
-description: "Plain-language paths to source records mentioned in Southwest Louisiana."
+description: "Browse public records by topic, with direct file downloads."
 ---
 
-# Local topics: start with the documents
+# Public records by topic
 
-Use these entry points to find the documents behind public conversations. A public-records request, draft document, company statement, and final agency order **do not establish the same facts**. Read the source and its date before drawing conclusions.
+**Start with the subject, then open the documents.** Each guide provides direct links to the relevant archived files and identifies the original collection for source context. No GitHub account or search is required.
 
-## Carbon capture, CO₂ pipelines and the Governor's Office
+## Featured document guides
 
-[Browse the Governor's Office carbon-capture production]({{ '/browse/' | relative_url }}?q=carbon%20capture). The collection presently identifies parts 4 and 5 as a **partial production**. Correspondence and third-party statements do not independently establish the accuracy of their contents.
+### [Governor's Office: carbon capture records]({{ '/guides/governor-carbon-capture/' | relative_url }})
 
-## Vernon Parish solar rules and Sunstripe Solar
+Selected Governor's Office production files and their provenance.
 
-[Browse Vernon Parish Police Jury / Sunstripe materials]({{ '/browse/' | relative_url }}?q=Sunstripe). Includes published agendas, draft ordinance material, and request documents. For the October 23, 2026 meeting outcome, distinguish KPLC's contemporaneous reporting from the still-requested official minutes and executed ordinance.
+### [Vernon Parish: Sunstripe Solar and the ordinance]({{ '/guides/vernon-solar-sunstripe/' | relative_url }})
 
-## Persimmon Gulch / Orion and Calcasieu Parish School Board
+Agendas, draft solar ordinance, request, and related public documents.
 
-[Browse CPSB's response attachments]({{ '/browse/' | relative_url }}?q=Persimmon). Includes supplied agreement versions and an Orion email. A document labeled "final" in an attachment name does not by itself establish execution.
+### [Persimmon / Orion: Calcasieu School Board records]({{ '/guides/persimmon-orion-cpsb/' | relative_url }})
 
-## Beauregard Electric / 1803 Electric
+October 19 production attachments and separate company materials.
 
-[Find Beauregard Electric collections]({{ '/browse/' | relative_url }}?q=Beauregard%20Electric) or [1803 Electric materials]({{ '/browse/' | relative_url }}?q=1803%20Electric). Court filings, corporate records and commission dockets are distinct source classes.
+### [Beauregard Electric: board, LPSC, and court records]({{ '/guides/beauregard-electric/' | relative_url }})
 
-## Starbase Louisiana / Pecan Island
+BECI board documents, audit docket, rate filings and related litigation.
 
-[Browse Starbase and Pecan Island records]({{ '/browse/' | relative_url }}?q=Starbase). Some archived entries document a request rather than a completed FOIA production.
+### [Starbase Louisiana and Pecan Island]({{ '/guides/starbase-pecan-island/' | relative_url }})
 
-## Sulphur city government and public finance
+Federal FOIA request records and related state coastal-management documents.
 
-[Find City of Sulphur records]({{ '/browse/' | relative_url }}?q=Sulphur), including council documents and the fiscal-year 2025 financial report.
+### [City of Sulphur: council records and finances]({{ '/guides/sulphur-city-records/' | relative_url }})
 
-## Energy utilities, regulatory dockets and transmission
+Published council agendas, minutes, resolutions and fiscal reports.
 
-[Browse Louisiana Public Service Commission and related files]({{ '/browse/' | relative_url }}?q=LPSC). Docket entries can contain pleadings and proposed actions rather than final commission determinations.
+### [1803 Electric: regulatory and transmission records]({{ '/guides/1803-electric/' | relative_url }})
 
-## Other projects and agencies
+LPSC proceedings, IRP documents, and selected MISO records.
 
-[Search the full catalog]({{ '/browse/' | relative_url }}) by project, docket number, filing date, or custodian.
+
+---
+
+## Browse all record subjects
+
+Every archived file is indexed within a subject and collection page.
+
+| Subject | Collections | Source files |
+|:---|---:|---:|
+| [Courts]({{ '/subjects/courts/' | relative_url }}) | 6 | 20 |
+| [Data centers]({{ '/subjects/data-centers/' | relative_url }}) | 1 | 1 |
+| [Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }}) | 46 | 156 |
+| [Environmental / coastal]({{ '/subjects/environment-coastal/' | relative_url }}) | 2 | 3 |
+| [Government / agencies]({{ '/subjects/government-agencies/' | relative_url }}) | 6 | 56 |
+| [Housing and homelessness]({{ '/subjects/housing-homelessness/' | relative_url }}) | 2 | 2 |
+| [LNG / pipelines and carbon storage]({{ '/subjects/lng-pipelines-carbon-storage/' | relative_url }}) | 4 | 6 |
+| [Other archived collections]({{ '/subjects/other-records/' | relative_url }}) | 1 | 4 |
+| [Public finance]({{ '/subjects/public-finance/' | relative_url }}) | 6 | 6 |
+| [Solar]({{ '/subjects/solar/' | relative_url }}) | 8 | 49 |
+
+---
+
+**How to interpret the archive:** inclusion does not verify claims made within documents. A request, draft permit, company publication, party filing, and final government order carry different evidentiary weight. [Read the preservation methodology]({{ '/methodology/' | relative_url }}).

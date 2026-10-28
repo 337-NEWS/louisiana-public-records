@@ -28,3 +28,14 @@ $archive-accent: #8b3f33;
 .archive-file-actions .download { background: $archive-ink; color: #fff !important; border-radius: 4px; padding: .4rem .6rem; text-decoration: none; }
 .archive-file-actions .download:hover { background: $archive-accent; }
 .archive-note { display:block; margin-top:1.2rem; font-size:.82rem; color:#5f6972; }
+
+/* Topic-first navigation and compact search results. */
+.archive-result { border-bottom: 1px solid #e5e6e7; padding: 1rem 0; }
+.archive-result h3 { font-size: 1rem; margin: 0 0 .25rem; }
+.archive-result p { margin: .3rem 0; }
+.archive-result ul { margin: .4rem 0; padding-left: 1.25rem; }
+.archive-result li { padding: .2rem 0; overflow-wrap: anywhere; }
+.archive-result-count { color: #687079; font-size: .8rem; }
+.archive-file-meta { color: #686f78; font-size: .75rem; }
+.archive-show-more { cursor: pointer; margin-top:1rem; padding:.65rem 1rem; border:1px solid #92979c; border-radius:4px; background:white; color:#252d33; font:inherit; }
+.archive-show-more:hover { background:#f2f2f2; }

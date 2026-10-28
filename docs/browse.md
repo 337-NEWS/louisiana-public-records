@@ -1,27 +1,27 @@
 ---
 layout: default
-title: Browse records
-nav_order: 2
+title: Find a document
+nav_order: 3
 permalink: /browse/
-description: "Search source-document collections and download original files."
+description: "Fast local filename and collection search, with direct source-file links."
 ---
 
-# Browse & download records
+# Find a document
 
-Find a collection by subject, agency, project, or filename. Choose **Download file** to get a document directly, without navigating the GitHub interface.
+**For the easiest path, [browse records by topic]({{ '/topics/' | relative_url }}).** Each topic and collection page has permanent direct links to the source documents. Use this search only when you know a project name, agency, docket number, or filename.
 
-<div class="archive-browser" id="archive-browser" data-manifest="{{ '/assets/data/catalog.json' | relative_url }}">
-  <label for="archive-query">Search the archive</label>
-  <input id="archive-query" class="archive-query" type="search" autocomplete="off" placeholder="Try: Vernon, carbon capture, CPSB, agreement, or U-37882">
+<div class="archive-browser" id="archive-browser" data-manifest="{{ '/assets/data/catalog.json' | relative_url }}" data-record-root="{{ '/records/' | relative_url }}">
+  <label for="archive-query">Find a collection or filename</label>
+  <input id="archive-query" class="archive-query" type="search" autocomplete="off" placeholder="Examples: Vernon, Persimmon, carbon capture, U-37483">
   <div class="archive-controls">
-    <label for="archive-section">Subject <select id="archive-section"><option value="">All subjects</option></select></label>
-    <span class="archive-count" id="archive-count" role="status" aria-live="polite">Loading documents…</span>
+    <label for="archive-section">Filter by subject <select id="archive-section"><option value="">All subjects</option></select></label>
+    <span class="archive-count" id="archive-count" role="status" aria-live="polite">Loading the small index…</span>
   </div>
-  <div id="archive-results"></div>
+  <div id="archive-results"><p>Loading the local document index.</p></div>
 </div>
 
-<noscript>This searchable interface requires JavaScript. The [GitHub catalog](https://github.com/337-NEWS/louisiana-public-records/blob/main/CATALOG.md) remains available without scripts.</noscript>
+<noscript>Search requires JavaScript, but the entire archive can be browsed without it. [Start with the topic guides]({{ '/topics/' | relative_url }}).</noscript>
 
-<span class="archive-note">Files open through GitHub's direct raw-file endpoint. Depending on your browser and file format, a PDF may open in a viewer before it can be saved. "Source details" opens the canonical repository file page; "Collection notes" provides the available provenance and context.</span>
+<span class="archive-note">This search covers collection titles and archived filenames, not the text inside PDFs. It reads a small index hosted with this website and makes no external GitHub API calls. Files remain in the original public repository.</span>
 
 <script defer src="{{ '/assets/js/records.js' | relative_url }}"></script>

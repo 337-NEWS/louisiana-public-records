@@ -10,28 +10,28 @@ description: "Search and download Louisiana public records without using GitHub.
 
 # Louisiana Public Records
 
-An independently maintained, searchable collection of public records, government correspondence, court filings, regulatory documents, and identified third-party publications relating to Louisiana.
+An independently maintained collection of Louisiana public records, government correspondence, court filings, regulatory documents, and identified third-party publications. Browse by topic and download original source files.
 
-**You do not need a GitHub account to use this archive.** Browse collections, search filenames and subjects, then select **Download file** beside the document you need.
+**You do not need a GitHub account.** Start with a subject guide, select the collection, and open or download the source file. Search is optional.
 
-[Browse & download records]({{ '/browse/' | relative_url }}){: .btn .btn-primary }
-[Explore local topics]({{ '/topics/' | relative_url }}){: .btn }
+[Browse records by topic]({{ '/topics/' | relative_url }}){: .btn .btn-primary }
+[Search filenames]({{ '/browse/' | relative_url }}){: .btn }
 
 ---
 
 ## Start here
 
-### Browse documents
+### Direct document access
 
-Find source records by subject, agency, project, or filename. Collection entries include individually downloadable source files, with a separate link to the original repository record.
+Choose from the topic guides, then open a collection to find its original PDFs and other source documents. The archive is navigable without search.
 
-[Open the searchable archive]({{ '/browse/' | relative_url }})
+[See all topics and collections]({{ '/topics/' | relative_url }})
 
 ### Current local subjects
 
-Begin with familiar projects and institutions: carbon capture, Vernon Parish solar development, Persimmon / Orion, Beauregard Electric, Sulphur, and Starbase Louisiana.
+Direct links to Governor's Office carbon-capture responses, Vernon Parish solar documents, Persimmon / Orion agreements, Beauregard Electric records, Sulphur council materials, and Starbase Louisiana requests.
 
-[Browse subject guides]({{ '/topics/' | relative_url }})
+[Open featured topic guides]({{ '/topics/' | relative_url }})
 
 ### Records requests
 

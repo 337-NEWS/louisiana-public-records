@@ -22,6 +22,6 @@ Find a collection by subject, agency, project, or filename. Choose **Download fi
 
 <noscript>This searchable interface requires JavaScript. The [GitHub catalog](https://github.com/337-NEWS/louisiana-public-records/blob/main/CATALOG.md) remains available without scripts.</noscript>
 
-<span class="archive-note">Files open through GitHub's direct raw-file endpoint. Depending on your browser and file format, a PDF may open in a viewer before it can be saved. The secondary "Source details" link preserves its GitHub path and collection context.</span>
+<span class="archive-note">Files open through GitHub's direct raw-file endpoint. Depending on your browser and file format, a PDF may open in a viewer before it can be saved. "Source details" opens the canonical repository file page; "Collection notes" provides the available provenance and context.</span>
 
 <script defer src="{{ '/assets/js/records.js' | relative_url }}"></script>

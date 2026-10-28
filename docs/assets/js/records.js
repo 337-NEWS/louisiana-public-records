@@ -32,7 +32,9 @@
       if (q) section.open = true;
       var summary = document.createElement("summary"); summary.textContent = c.title + " (" + files.length + " files)";
       section.appendChild(summary);
-      var sub = document.createElement("small"); sub.textContent = c.section; section.appendChild(sub);
+      var sub = document.createElement("small"); sub.textContent = c.section;
+      if (c.notes !== false) { sub.appendChild(document.createTextNode(" · ")); sub.appendChild(a("https://github.com/" + repo + "/blob/main/" + urlFile(c.path), "Collection notes")); }
+      section.appendChild(sub);
       var list = document.createElement("ul"); list.className = "archive-items";
       files.forEach(function (file) {
         var li = document.createElement("li");
@@ -64,7 +66,7 @@
   }
   function refresh(snapshot, entries) {
     var col = snapshot.map(function (c) {
-      return { title: c.title, section: c.section, path: c.path, files: [] };
+      return { title: c.title, section: c.section, path: c.path, notes: c.notes, files: [] };
     });
     var known = {};
     col.forEach(function (c) { known[c.path] = true; });

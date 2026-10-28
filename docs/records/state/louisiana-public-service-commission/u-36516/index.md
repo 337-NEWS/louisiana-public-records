@@ -1,0 +1,29 @@
+---
+layout: default
+title: "LPSC Docket U-36516 — SLEMCO, NextEra, and Beauregard Solar"
+nav_exclude: true
+permalink: "/records/state/louisiana-public-service-commission/u-36516/"
+description: "Archived source files: LPSC Docket U-36516 — SLEMCO, NextEra, and Beauregard Solar"
+---
+
+[All topics]({{ '/topics/' | relative_url }}) / [Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }})
+
+# LPSC Docket U-36516 — SLEMCO, NextEra, and Beauregard Solar
+
+**3 archived files** · Energy & utilities
+
+Source notes: [view original collection documentation](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-36516/README.md).
+
+The links below lead directly to the original archived files, without requiring a GitHub account. This page is a document index, not a finding about the content of the records.
+
+| Download source file | Format / size | Repository reference |
+|:---|:---|:---|
+| [2022 08 29 joint application.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-36516/2022-08-29-joint-application.pdf) | PDF · 421 KB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-36516/2022-08-29-joint-application.pdf) |
+| [2023 11 07 order u 36516 public redacted.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-36516/2023-11-07-order-u-36516-public-redacted.pdf) | PDF · 37.5 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-36516/2023-11-07-order-u-36516-public-redacted.pdf) |
+| [2024 01 11 order u 36516 a.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-36516/2024-01-11-order-u-36516-a.pdf) | PDF · 6.1 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-36516/2024-01-11-order-u-36516-a.pdf) |
+
+---
+
+**Reading note:** Applications, drafts, agendas, filings, productions, company publications, and orders have different evidentiary significance. Review the source and its provenance before citing it.
+
+[Back to Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }})

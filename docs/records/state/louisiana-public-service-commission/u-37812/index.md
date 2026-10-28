@@ -1,0 +1,29 @@
+---
+layout: default
+title: "LPSC Docket U-37812 — Babel–Webre"
+nav_exclude: true
+permalink: "/records/state/louisiana-public-service-commission/u-37812/"
+description: "Archived source files: LPSC Docket U-37812 — Babel–Webre"
+---
+
+[All topics]({{ '/topics/' | relative_url }}) / [Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }})
+
+# LPSC Docket U-37812 — Babel–Webre
+
+**3 archived files** · Energy & utilities
+
+Source notes: [view original collection documentation](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-37812/README.md).
+
+The links below lead directly to the original archived files, without requiring a GitHub account. This page is a document index, not a finding about the content of the records.
+
+| Download source file | Format / size | Repository reference |
+|:---|:---|:---|
+| [u37812 babel webre application 2025 12 23.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-37812/u37812-babel-webre-application-2025-12-23.pdf) | PDF · 13.9 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-37812/u37812-babel-webre-application-2025-12-23.pdf) |
+| [u37812 exhibit a uncontested settlement agreement 2026 09 30.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-37812/u37812-exhibit-a-uncontested-settlement-agreement-2026-09-30.pdf) | PDF · 6.1 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-37812/u37812-exhibit-a-uncontested-settlement-agreement-2026-09-30.pdf) |
+| [u37812 testimony chad ladner public redacted 2025 12.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/louisiana-public-service-commission/u-37812/u37812-testimony-chad-ladner-public-redacted-2025-12.pdf) | PDF · 1 KB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/louisiana-public-service-commission/u-37812/u37812-testimony-chad-ladner-public-redacted-2025-12.pdf) |
+
+---
+
+**Reading note:** Applications, drafts, agendas, filings, productions, company publications, and orders have different evidentiary significance. Review the source and its provenance before citing it.
+
+[Back to Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }})

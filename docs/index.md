@@ -3,52 +3,66 @@ layout: default
 title: Home
 nav_order: 1
 permalink: /
-description: "Search and download Louisiana public records without using GitHub."
+description: "Browse Louisiana public records by topic, agency and source collection."
 ---
 
-<span class="archive-eyebrow">337.NEWS / DOCUMENT ARCHIVE</span>
+<span class="archive-eyebrow">337.NEWS / PUBLIC RECORDS ARCHIVE</span>
 
 # Louisiana Public Records
 
-An independently maintained collection of Louisiana public records, government correspondence, court filings, regulatory documents, and identified third-party publications. Browse by topic and download original source files.
+A public archive of government correspondence, agency records, regulatory filings, court documents and other identified source materials concerning Louisiana.
 
-**You do not need a GitHub account.** Start with a subject guide, select the collection, and open or download the source file. Search is optional.
+**Start with a topic below.** Each guide leads directly to the actual source files, with context about what the records establish and any limitations in the archived production. No account, search box or knowledge of GitHub is required.
 
-[Browse records by topic]({{ '/topics/' | relative_url }}){: .btn .btn-primary }
-[Search filenames]({{ '/browse/' | relative_url }}){: .btn }
-
----
-
-## Start here
-
-### Direct document access
-
-Choose from the topic guides, then open a collection to find its original PDFs and other source documents. The archive is navigable without search.
-
-[See all topics and collections]({{ '/topics/' | relative_url }})
-
-### Current local subjects
-
-Direct links to Governor's Office carbon-capture responses, Vernon Parish solar documents, Persimmon / Orion agreements, Beauregard Electric records, Sulphur council materials, and Starbase Louisiana requests.
-
-[Open featured topic guides]({{ '/topics/' | relative_url }})
-
-### Records requests
-
-Understand which collections contain responses, which are partial, and which are requests awaiting a documented production.
-
-[View the request tracker]({{ '/requests/' | relative_url }})
-
-### How these records are preserved
-
-Read how 337.NEWS distinguishes agency records from company materials, tracks provenance, and handles incomplete productions and publication redactions.
-
-[Read methodology]({{ '/methodology/' | relative_url }})
+[Explore record topics]({{ '/topics/' | relative_url }}){: .btn .btn-primary }
 
 ---
 
-## About this archive
+## Featured document collections
 
-Records are organized by original **source or custodian** in the [underlying public repository](https://github.com/337-NEWS/louisiana-public-records). This website is a navigation and download interface; it does not replace, rename, or alter the source files. Some documents are partial productions or redacted publication copies. Inclusion does not establish the truth of an allegation or the approval of a proposed project.
+### [Governor’s Office — Carbon Capture]({{ '/guides/governor-carbon-capture/' | relative_url }})
+Correspondence and response files concerning carbon capture and related Louisiana projects. Includes direct links to the available production parts.
 
-**Editorial reporting and analysis remain separate** at [337.NEWS](https://337.news).
+### [Vernon Parish — Sunstripe Solar]({{ '/guides/vernon-solar-sunstripe/' | relative_url }})
+Police Jury agendas, draft ordinance material and documented records requests involving solar development.
+
+### [Persimmon / Orion — Calcasieu School Board]({{ '/guides/persimmon-orion-cpsb/' | relative_url }})
+The school board’s response attachments, including two funding-agreement versions, with company-issued documents identified separately.
+
+### [Beauregard Electric]({{ '/guides/beauregard-electric/' | relative_url }})
+Board records, investigative audit material, regulatory dockets and related court records, separated by issuing source.
+
+### [Starbase Louisiana / Pecan Island]({{ '/guides/starbase-pecan-island/' | relative_url }})
+Federal records requests and related coastal-management documents.
+
+### [City of Sulphur]({{ '/guides/sulphur-city-records/' | relative_url }})
+Council agendas, meeting minutes, resolutions and financial records.
+
+### [1803 Electric]({{ '/guides/1803-electric/' | relative_url }})
+Public Service Commission proceedings, planning filings and selected MISO transmission documents.
+
+---
+
+## Browse every collection by subject
+
+- [Solar]({{ '/subjects/solar/' | relative_url }}) — 8 collections
+- [LNG / pipelines and carbon storage]({{ '/subjects/lng-pipelines-carbon-storage/' | relative_url }}) — 4 collections
+- [Energy & utilities]({{ '/subjects/energy-utilities/' | relative_url }}) — 46 collections
+- [Government / agencies]({{ '/subjects/government-agencies/' | relative_url }}) — 6 collections
+- [Public finance]({{ '/subjects/public-finance/' | relative_url }}) — 6 collections
+- [Courts]({{ '/subjects/courts/' | relative_url }}) — 6 collections
+- [Environmental / coastal]({{ '/subjects/environment-coastal/' | relative_url }}) — 2 collections
+- [Data centers]({{ '/subjects/data-centers/' | relative_url }}) — 1 collection
+- [Housing and homelessness]({{ '/subjects/housing-homelessness/' | relative_url }}) — 2 collections
+- [Other archived collections]({{ '/subjects/other-records/' | relative_url }}) — 1 collection
+
+Prefer a complete directory? [View all 82 collections]({{ '/browse/' | relative_url }}).
+
+---
+
+## Archive accountability
+
+- [Documented records requests]({{ '/requests/' | relative_url }}) — which requests and responses appear in this archive, and where productions are incomplete.
+- [Methodology and source integrity]({{ '/methodology/' | relative_url }}) — provenance, redactions, corrections and how to interpret filings.
+
+The canonical source files are preserved in the [337.NEWS public GitHub repository](https://github.com/337-NEWS/louisiana-public-records). The archive does not independently substantiate claims made within an underlying document. Reporting and analysis are published separately at [337.NEWS](https://337.news).

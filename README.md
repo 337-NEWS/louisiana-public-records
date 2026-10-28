@@ -11,7 +11,7 @@ A public source-document archive maintained by [337.NEWS](https://337.news) for 
 - [Methodology](METHODOLOGY.md) — provenance, redaction, correction, and preservation practices.
 - [Repository structure](REPOSITORY-STRUCTURE.md) — directory roles and naming rules.
 
-To download a record without navigating GitHub, use the [public document browser](https://337-news.github.io/louisiana-public-records/browse/). GitHub users can still open a collection README and use **Download raw file** on individual source-file pages.
+To download a record without navigating GitHub, start with the [public topic guides](https://337-news.github.io/louisiana-public-records/topics/) or [static collection directory](https://337-news.github.io/louisiana-public-records/browse/). The site links directly to original files without requiring a GitHub account. GitHub users can still open any collection README to inspect provenance.
 
 The canonical files remain under `federal/`, `state/`, `parish/`, `municipal/`, and `courts/` by source or custodian. `other-public-documents/` holds identified company, project, and other public publications; collection READMEs distinguish these from agency records.
 

@@ -1,0 +1,22 @@
+title: "337.NEWS | Public Records"
+description: "Source-document archive for Louisiana public records, filings, government correspondence, and public publications."
+url: "https://337-news.github.io"
+baseurl: "/louisiana-public-records"
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  button: false
+aux_links:
+  "337.NEWS":
+    - "https://337.news"
+aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: '337.NEWS Public Records Archive. Records remain attributable to their originating sources. <a href="https://337.news">Reporting at 337.NEWS</a>.'
+permalink: pretty

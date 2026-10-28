@@ -2,6 +2,11 @@
 
 Browse by subject below or use the [knowledge indexes](indexes/README.md) for cross-agency project, entity, topic, and infrastructure navigation. Each collection remains under its source/custodian. Company publications are labeled separately.
 
+## Housing and homelessness
+
+- [U.S. Census Bureau — fourth quarter 2025 housing vacancies](federal/us-census-bureau/housing-vacancies-q4-2025/README.md)
+- [National Center for Homeless Education — student homelessness, 2020-21 to 2022-23](federal/national-center-for-homeless-education/student-homelessness-2020-21-to-2022-23/README.md)
+
 ## Energy & utilities
 
 - [LPSC U-35927 — 1803 Electric docket document listing](state/louisiana-public-service-commission/u-35927/README.md)

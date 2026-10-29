@@ -10,7 +10,9 @@ description: "Archived source files: Louisiana Governor's Office — Carbon Capt
 
 # Louisiana Governor's Office — Carbon Capture Records
 
-**2 archived files** · LNG / pipelines and carbon storage
+**4 archived files** · LNG / pipelines and carbon storage
+
+Part 3 has not been located in the email production. The reason remains unverified; its absence is not established as corresponding to the nine records withheld by the Governor's Office.
 
 Source notes: [view original collection documentation](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/governors-office/carbon-capture/README.md).
 
@@ -18,6 +20,8 @@ The links below lead directly to the original archived files, without requiring 
 
 | Download source file | Format / size | Repository reference |
 |:---|:---|:---|
+| [response part 1.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-1.pdf) | PDF · 2.3 MB (2,388,191 bytes) | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/governors-office/carbon-capture/response/response-part-1.pdf) |
+| [response part 2.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-2.pdf) | PDF · 7.6 MB (7,980,472 bytes) | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/governors-office/carbon-capture/response/response-part-2.pdf) |
 | [response part 4.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-4.pdf) | PDF · 15.2 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/governors-office/carbon-capture/response/response-part-4.pdf) |
 | [response part 5.pdf](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-5.pdf) | PDF · 6.8 MB | [Source details](https://github.com/337-NEWS/louisiana-public-records/blob/main/state/governors-office/carbon-capture/response/response-part-5.pdf) |
 

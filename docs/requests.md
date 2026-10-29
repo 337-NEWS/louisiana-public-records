@@ -12,7 +12,7 @@ Status is based **only on documents preserved in this archive**, not a claim abo
 
 | Collection | Archived status |
 |:---|:---|
-| [Governor's Office: carbon capture]({{ '/records/state/governors-office/carbon-capture/' | relative_url }}) | Selected response parts 4 and 5; completeness not established |
+| [Governor's Office: carbon capture]({{ '/records/state/governors-office/carbon-capture/' | relative_url }}) | Selected response parts 1, 2, 4, and 5; Part 3 not located in the email production, reason unverified; completeness not established |
 | [Calcasieu Parish School Board: Persimmon Gulch / Orion]({{ '/records/parish/calcasieu-parish/calcasieu-parish-school-board/persimmon-gulch-orion/' | relative_url }}) | Three response attachments received October 19, 2026; request completeness not established |
 | [Vernon Parish Police Jury: Sunstripe]({{ '/records/parish/vernon-parish/vernon-parish-police-jury/sunstripe-solar/' | relative_url }}) | October 23 request included; no response archived in the reviewed tracker |
 | [FAA: Starbase Louisiana]({{ '/records/federal/faa/starbase-louisiana-section-106/' | relative_url }}) | Request only in archived collection |

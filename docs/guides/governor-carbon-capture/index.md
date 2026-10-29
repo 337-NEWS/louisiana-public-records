@@ -10,10 +10,12 @@ description: "Selected Governor's Office production files and their provenance."
 
 # Governor's Office: carbon capture records
 
-The archived response contains **parts 4 and 5 of a larger production** concerning carbon capture and related Louisiana projects. The archive does not establish that these are the complete responsive records. Correspondence includes statements from third parties; publication is not independent corroboration of their claims.
+The archived response contains **parts 1, 2, 4, and 5 of a larger production** concerning carbon capture and related Louisiana projects. The archive does not establish that these are the complete responsive records. Correspondence includes statements from third parties; publication is not independent corroboration of their claims.
 
 ## Governor's Office production
 
+- [Response — Part 1 (PDF)](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-1.pdf) · 2.3 MB
+- [Response — Part 2 (PDF)](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-2.pdf) · 7.6 MB
 - [Response — Part 4 (PDF)](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-4.pdf) · 15.2 MB
 - [Response — Part 5 (PDF)](https://github.com/337-NEWS/louisiana-public-records/raw/refs/heads/main/state/governors-office/carbon-capture/response/response-part-5.pdf) · 6.8 MB
 

@@ -6,6 +6,8 @@
 
 ## Files
 
+- [response/response-part-1.pdf](response/response-part-1.pdf)
+- [response/response-part-2.pdf](response/response-part-2.pdf)
 - [response/response-part-4.pdf](response/response-part-4.pdf)
 - [response/response-part-5.pdf](response/response-part-5.pdf)
 
@@ -13,8 +15,10 @@ These files are portions of a larger public-records production and are preserved
 
 Source files are archived as received.
 
+Part 3 has not been located in the email production. The reason remains unverified; its absence is not established as corresponding to the nine records withheld by the Governor's Office.
+
 ## Archive metadata
 
 - Jurisdiction / source class: Louisiana state
 - Archive status: Selected records; completeness not established
-- Last reviewed: 2026-10-11
+- Last reviewed: 2026-10-28

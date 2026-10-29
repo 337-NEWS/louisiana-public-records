@@ -8,7 +8,7 @@ description: "Static, no-JavaScript directory of the Louisiana Public Records Ar
 
 # All document collections
 
-**82 collections · 303 indexed source files.** This is a plain directory—no search engine, JavaScript, PDF loading or external API requests. Select a collection to see the individual document-download links.
+**82 collections · 305 indexed source files.** This is a plain directory—no search engine, JavaScript, PDF loading or external API requests. Select a collection to see the individual document-download links.
 
 If you are researching a particular story, [start with the topic guides]({{ '/topics/' | relative_url }}) for curated links and essential context.
 
@@ -33,7 +33,7 @@ If you are researching a particular story, [start with the topic guides]({{ '/to
 ## LNG / pipelines and carbon storage
 
 - [Cameron Parish Police Jury — Black Bayou Gas Storage public notices and ITEP meeting materials]({{ '/records/parish/cameron-parish/police-jury/black-bayou-gas-storage/' | relative_url }}) — 1 file
-- [Louisiana Governor's Office — Carbon Capture Records]({{ '/records/state/governors-office/carbon-capture/' | relative_url }}) — 2 files
+- [Louisiana Governor's Office — Carbon Capture Records]({{ '/records/state/governors-office/carbon-capture/' | relative_url }}) — 4 files
 - [Pecan Island Area Project — Coastal Management Records]({{ '/records/state/office-of-coastal-management/pecan-island-area-project/' | relative_url }}) — 2 files
 - [Pipeline dockets PL 25-016 through PL 25-019]({{ '/records/state/office-of-conservation/pipeline-dockets-pl-25-016-to-pl-25-019/' | relative_url }}) — 1 file
 

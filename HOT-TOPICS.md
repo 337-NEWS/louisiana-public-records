@@ -30,7 +30,7 @@ Looking for the records behind a local conversation? Pick the name people are us
 
 ## Carbon capture, CO2 pipelines, and Pecan Island
 
-[Browse the carbon-capture and pipeline topic page](indexes/topics/carbon-capture-and-pipelines.md). It points to selected state responses, coastal-management records, and pipeline dockets. The Governor's Office production in this archive contains parts 4 and 5 only.
+[Browse the carbon-capture and pipeline topic page](indexes/topics/carbon-capture-and-pipelines.md). It points to selected state responses, coastal-management records, and pipeline dockets. The Governor's Office production in this archive contains parts 1, 2, 4, and 5. Part 3 has not been located in the email production; the reason remains unverified.
 
 ## Waterford 3 water-discharge permit
 

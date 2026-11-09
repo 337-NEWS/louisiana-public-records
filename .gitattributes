@@ -1,4 +1,7 @@
 *.pdf binary
+other-public-documents/hri-communities/mid-city-commerce/mid-city-commerce.html -text
+other-public-documents/lake-charles-choice-neighborhoods/mid-city-commerce/housing.html -text
+parish/jefferson-davis-parish/sheriff/jeff-davis-8-2026/2026-11-06-renewed-efforts.html -text
 state/louisiana-department-of-environmental-quality/waterford-3/2025-02-04-draft-lpdes-permit-package-la0007374.pdf filter=lfs diff=lfs merge=lfs -text
 state/louisiana-public-service-commission/u-37425/u37425-application-revised-public-version-2024-12-13.pdf filter=lfs diff=lfs merge=lfs -text
 state/louisiana-public-service-commission/u-37425/u37425-joint-motion-investigation-financing-2026-01-14.pdf filter=lfs diff=lfs merge=lfs -text

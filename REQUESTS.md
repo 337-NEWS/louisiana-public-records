@@ -14,3 +14,10 @@ This tracker includes requests or responses evidenced by files in this archive. 
 
 Consult each collection for provenance and the exact request or production files. No missing parts were recreated.
 
+## Unsubmitted drafts
+
+These drafts are research aids, not filed requests or evidence of agency receipt.
+
+- [City of Lake Charles — Mid-City Commerce records](municipal/lake-charles/mid-city-commerce/PUBLIC-RECORDS-REQUEST-DRAFT-2026-11-09.md), prepared November 9, 2026.
+- [Jefferson Davis Parish Sheriff's Office — evidence-preservation administrative records](parish/jefferson-davis-parish/sheriff/jeff-davis-8-2026/PUBLIC-RECORDS-REQUEST-DRAFT-2026-11-09.md), prepared November 9, 2026.
+

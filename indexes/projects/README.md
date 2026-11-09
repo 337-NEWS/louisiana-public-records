@@ -1,5 +1,7 @@
 # Projects
 
+- [Mid-City Commerce — primary-source inventory](mid-city-commerce.md)
+
 - [Lacassine Solar](lacassine-solar.md)
 - [Lacassine Solar II](lacassine-solar-ii.md)
 - [Mowata Solar](mowata-solar.md)

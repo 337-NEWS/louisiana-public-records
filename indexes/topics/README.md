@@ -1,5 +1,7 @@
 # Topics
 
+- [Jeff Davis 8 — 2026 evidence-preservation source inventory](jeff-davis-8-evidence-preservation.md)
+
 - [Carbon Capture And Pipelines](carbon-capture-and-pipelines.md)
 - [Courts And Litigation](courts-and-litigation.md)
 - [Data Centers](data-centers.md)

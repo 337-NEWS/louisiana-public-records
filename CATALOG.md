@@ -4,6 +4,13 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Housing and homelessness
 
+- [Mid-City Commerce — cross-agency source inventory](indexes/projects/mid-city-commerce.md)
+- [City of Lake Charles — Mid-City Commerce records sought](municipal/lake-charles/mid-city-commerce/README.md)
+- [LHC — 2025 LIHTC final rankings](state/louisiana-housing-corporation/2025-lihtc-final-rankings/README.md)
+- [HUD — Lake Charles Mid-City Choice Neighborhoods award summary](federal/hud/choice-neighborhoods/lake-charles-mid-city/README.md)
+- [HRI Communities — Mid-City Commerce project page](other-public-documents/hri-communities/mid-city-commerce/README.md)
+- [Lake Charles Choice Neighborhoods — housing project page](other-public-documents/lake-charles-choice-neighborhoods/mid-city-commerce/README.md)
+
 - [U.S. Census Bureau — fourth quarter 2025 housing vacancies](federal/us-census-bureau/housing-vacancies-q4-2025/README.md)
 - [National Center for Homeless Education — student homelessness, 2020-21 to 2022-23](federal/national-center-for-homeless-education/student-homelessness-2020-21-to-2022-23/README.md)
 
@@ -98,6 +105,9 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 - [Jefferson Davis Parish Police Jury — Financial Reports](parish/jefferson-davis-parish/police-jury/README.md)
 
 ## Government / agencies
+
+- [Jeff Davis 8 — evidence-preservation source inventory](indexes/topics/jeff-davis-8-evidence-preservation.md)
+- [Jefferson Davis Parish Sheriff's Office — November 2026 statement](parish/jefferson-davis-parish/sheriff/jeff-davis-8-2026/README.md)
 
 - [Sulphur City Council — selected 2026 records](municipal/sulphur/city-council/2026/README.md)
 - [Starbase Louisiana — FAA FOIA](federal/faa/starbase-louisiana-section-106/README.md)

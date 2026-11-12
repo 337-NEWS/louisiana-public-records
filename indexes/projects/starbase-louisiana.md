@@ -16,6 +16,9 @@ The requests name the FAA and USACE as requested agencies and refer to SpaceX/St
 Pecan Island and Vermilion Parish are named in the requests.
 
 ## Timeline
+
+- [Detailed Project Osprey evidence timeline (March–November 2026)](project-osprey-timeline.md) — primary CPRA page references, subsequent official announcements and legislation, and pending permit verification.
+
 - 2026-03 through 2026-08: [CPRA records production, 38 pages (DocumentCloud)](https://www.documentcloud.org/documents/28880366-cpra-records1/?mode=document), including Project Osprey briefings and interagency correspondence. The production is heavily redacted; the date of release is not established here.
 - 2026-09-21: [FAA FOIA request](../../federal/faa/starbase-louisiana-section-106/request/2026-06147-dalton-barron-request.pdf).
 - 2026-09-21: [USACE FOIA request](../../federal/usace/pecan-island-starbase-louisiana/request/barron-foia-request-2026-09-21.pdf).

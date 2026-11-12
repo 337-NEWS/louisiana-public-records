@@ -86,6 +86,8 @@ Browse by subject below or use the [knowledge indexes](indexes/README.md) for cr
 
 ## Environmental / coastal
 
+- [Project Osprey / Starbase Louisiana — documentary timeline, legislative and permitting cross-references](indexes/projects/project-osprey-timeline.md)
+
 - [Pecan Island / Starbase Louisiana — USACE FOIA](federal/usace/pecan-island-starbase-louisiana/README.md)
 - [Waterford 3 — draft water-discharge permit records](state/louisiana-department-of-environmental-quality/waterford-3/README.md)
 
